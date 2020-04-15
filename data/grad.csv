@@ -1,0 +1,1001 @@
+sr_no,full_name,gender,phone_numbers,state,gre_score,toefl_score,university_ranking_range,sop_score,lor_score,cgpa,not_a_first_gen_applicant,research_years,interest_in_sports,plan_fa,admitted_or_not
+1,Kevin Purviss,M,951-779-7991,California,308,110,3,3.5,3,8,0,1,basketball,0,0
+2,Bev Guterson,M,218-482-7507,Minnesota,315,100,1,2,2.5,7.95,1,0,hockey,0,1
+3,Devy Deakins,M,480-737-7514,Arizona,322,110,3,3.5,3,8.96,1,1,none,1,1
+4,Lucien Mc Dermid,M,917-539-7540,New York,307,105,2,2,3.5,8.1,0,0,hockey,0,1
+5,Ariana Jamson,F,904-736-3106,Florida,311,102,3,4.5,4,8.64,1,1,none,1,1
+6,Rey Mochar,M,859-594-7128,Kentucky,301,106,4,2.5,3,8.47,1,0,basketball,1,1
+7,Wolf De Nisco,M,605-196-8201,South Dakota,317,104,2,3,3,8.76,1,0,none,0,1
+8,Tanya Chaffyn,F,901-140-3065,Tennessee,304,101,2,2,2.5,7.66,0,0,none,1,0
+9,Forrest Branca,M,785-199-6280,Kansas,303,99,3,2,2.5,7.66,1,0,none,1,0
+10,Morrie Siaskowski,M,903-189-6634,Texas,324,105,3,3,4,8.75,1,0,football,1,1
+11,Marion Antoniazzi,F,814-739-4456,Pennsylvania,313,84,3,4,4.5,8.65,1,0,football,1,1
+12,Joyan Raselles,F,816-256-2335,Missouri,316,105,3,3,3.5,8.73,0,0,basketball,1,1
+13,Donal Brunini,M,614-216-1985,Ohio,324,111,3,2.5,2,8.8,1,1,none,1,1
+14,Dennie Reynold,M,609-172-1698,New Jersey,308,103,2,2.5,4,8.36,0,1,basketball,1,1
+15,Hermon Cavnor,M,404-116-2910,Georgia,297,96,2,2.5,1.5,7.89,0,0,none,1,0
+16,Christel Batie,F,757-888-8753,Virginia,311,104,3,3.5,2,8.2,1,1,basketball,0,1
+17,Flinn Lantuff,M,843-601-2271,South Carolina,294,93,1,1.5,2,7.36,0,0,none,1,0
+18,Jay Limbourne,M,713-978-0390,Texas,325,106,3,3.5,4,8.4,0,1,none,0,1
+19,Hartley Tomkies,M,713-309-5199,Texas,326,102,4,5,5,8.76,1,1,basketball,0,1
+20,Faina Knight,F,205-260-9987,Alabama,328,116,5,5,5,9.5,0,1,basketball,0,1
+21,Edouard Ricardou,M,480-708-4840,Arizona,304,105,2,3,3,8.2,0,1,basketball,1,1
+22,Alard Foucar,M,405-396-2574,Oklahoma,329,114,5,4,5,9.3,1,1,none,0,1
+23,Spense Doniso,M,928-622-2622,Arizona,302,101,2,2.5,3.5,7.96,1,0,hockey,0,0
+24,Berty Trevna,M,915-219-1288,Texas,316,106,2,2.5,4,8.32,1,0,none,1,1
+25,Sig Hearley,M,901-846-8991,Tennessee,306,103,2,2.5,3,8.36,1,0,football,1,1
+26,Andras Spiers,M,765-990-6940,Indiana,319,108,3,3,3.5,8.54,1,1,none,1,1
+27,Walden Hawthorn,M,651-763-6483,Minnesota,336,100,2,3,3,8,1,0,hockey,0,0
+28,Paulina Quince,F,347-146-9279,New York,313,102,3,2.5,2.5,8.68,0,0,basketball,0,1
+29,Zebedee Redwing,M,414-925-1760,Wisconsin,302,102,1,2,1.5,8,0,0,basketball,1,0
+30,Clayson Eger,M,509-133-3969,Washington,303,100,2,3,3.5,8.06,1,1,none,1,1
+31,Hildagard Edmett,F,304-902-4292,West Virginia,315,105,2,2,2.5,7.65,0,0,none,0,0
+32,Mahala Klaff,F,770-947-6158,Georgia,329,111,4,4.5,4,9.01,0,1,football,1,1
+33,Kellby Pyle,M,801-596-9249,Utah,305,112,3,3,3.5,8.65,1,0,none,0,1
+34,Elton Cheyney,M,570-702-2512,Pennsylvania,324,112,5,5,5,9.08,1,1,basketball,0,1
+35,Leigh Titcomb,M,216-847-5275,Ohio,329,111,4,4.5,4.5,9.18,0,1,none,0,1
+36,Halli Isacoff,F,803-708-4558,South Carolina,324,111,5,4.5,4,9.16,1,1,basketball,0,1
+37,Melisa Renfield,F,202-833-3074,District of Columbia,322,110,3,3.5,2.5,8.67,1,1,hockey,1,1
+38,Christyna Blondell,F,213-221-4336,California,290,104,4,2,2.5,7.46,1,0,hockey,0,0
+39,Tootsie Langland,F,719-851-4073,Colorado,300,105,1,1,2,7.8,1,0,basketball,0,1
+40,Stearne Davidai,M,207-923-5588,Maine,334,114,4,4,4,9.43,0,1,football,1,1
+41,Abba Milius,M,303-561-3929,Colorado,302,102,1,2,1.5,8,1,0,none,1,0
+42,Delbert Danielovitch,M,405-461-9261,Oklahoma,331,116,5,4,4,9.26,1,1,basketball,0,1
+43,Oswald Marr,M,512-997-2365,Texas,305,105,2,3,2,8.23,0,0,football,0,1
+44,Davita Dachey,F,914-338-9695,New York,293,97,2,2,4,7.8,0,1,hockey,1,1
+45,Ruby Wyd,M,612-727-7960,Minnesota,327,103,3,4,4,8.3,0,1,none,0,1
+46,Tansy Gingell,F,208-275-8054,Idaho,294,95,1,1.5,1.5,7.64,0,0,none,0,0
+47,Edythe Philipot,F,951-743-9786,California,300,99,1,1,2.5,8.01,0,0,none,0,1
+48,Leonid Chellam,M,404-660-1956,Georgia,314,106,2,4,3.5,8.25,0,0,football,0,1
+49,Ruth Manklow,F,334-815-3901,Alabama,296,101,1,2.5,3,7.68,1,0,football,1,1
+50,Thadeus Revening,M,412-581-0040,Pennsylvania,300,99,1,3,2,6.8,0,1,none,0,0
+51,Maribel Draye,F,518-707-0836,New York,314,108,3,4.5,3.5,8.14,0,0,none,1,1
+52,Budd Malyj,M,828-579-5404,North Carolina,326,113,5,4.5,4,9.4,1,1,none,0,1
+53,Rosamund Querree,F,901-296-5396,Tennessee,304,101,2,2,2.5,7.66,0,0,hockey,0,0
+54,Dolph Binford,M,202-889-1180,District of Columbia,325,111,4,4,4.5,9.11,1,1,none,1,1
+55,Kerry Mayell,F,910-216-5203,North Carolina,313,103,3,4,4,8.75,0,0,none,0,1
+56,Stacee Wernher,M,601-448-8604,Mississippi,302,99,1,2,2,7.25,1,0,none,0,1
+57,Dirk Galway,M,425-787-3687,Washington,322,110,5,5,4,9.1,0,1,none,0,1
+58,Jacquelyn Tacker,F,304-700-9723,West Virginia,328,110,4,5,4,9.14,0,1,none,1,1
+59,Pren Kobelt,M,518-934-6015,New York,325,107,3,3,3.5,9.11,0,1,none,0,1
+60,Jamill Wardlaw,M,806-904-9164,Texas,312,107,3,3,3,8.46,1,1,basketball,1,1
+61,Rhianna Ruggieri,F,323-856-8876,California,309,104,2,2,2.5,8.26,1,0,basketball,1,1
+62,Fredra Linck,F,713-201-3770,Texas,298,98,2,1.5,2.5,7.5,1,1,basketball,0,0
+63,Hailey Quilkin,M,915-645-7736,Texas,327,111,4,4,4.5,9,0,1,hockey,1,1
+64,Meaghan Minichillo,F,402-973-9393,Nebraska,306,105,2,2.5,3,8.22,0,1,football,1,1
+65,Shandee Markl,F,412-705-2684,Pennsylvania,316,98,1,1.5,2,7.43,0,0,football,1,0
+66,Enrichetta Abrahams,F,202-696-2226,Maryland,311,99,1,2.5,3,8.43,0,1,none,0,1
+67,Sheena Collinwood,F,504-518-3798,Louisiana,310,103,2,2.5,2.5,8.24,0,0,none,0,1
+68,Joyann Clere,F,765-963-4583,Indiana,314,110,3,4,4,8.8,0,0,hockey,1,1
+69,Riki Grece,F,614-471-6037,Ohio,313,109,3,4,3.5,9,1,0,football,1,1
+70,Leonore Press,F,972-729-1832,Texas,340,120,5,4.5,4.5,9.91,1,1,none,1,1
+71,Melvin Goudard,M,704-304-2853,North Carolina,310,106,2,3.5,2.5,8.33,0,0,none,0,1
+72,Skippie Lunney,M,408-588-0145,California,303,99,3,2,2.5,7.66,0,0,none,0,0
+73,Lorrayne O'Grada,F,859-475-1041,Kentucky,296,99,2,3,3.5,7.28,1,0,hockey,0,0
+74,Amelia Briztman,F,909-900-2512,California,312,103,3,3.5,4,8.78,1,0,football,1,1
+75,Ralph Seeviour,M,804-321-0108,Virginia,312,100,2,1.5,3.5,7.9,1,1,basketball,0,1
+76,Innis Sarfati,M,772-295-8980,Florida,316,107,2,3.5,3.5,8.64,0,1,none,0,1
+77,Cinderella Olyfant,F,240-507-8223,Maryland,290,100,1,1.5,2,7.56,0,0,none,0,0
+78,Ernestus Pirnie,M,202-383-5881,District of Columbia,301,104,3,3.5,4,8.12,1,1,none,1,1
+79,Gregor Brogan,M,404-794-1360,Georgia,295,96,2,1.5,2,7.34,0,0,basketball,0,0
+80,Leanor Hevner,F,561-898-6853,Florida,324,115,3,3.5,3,8.76,0,1,none,1,1
+81,Fredek Bertin,M,806-686-8550,Texas,309,106,2,2.5,2.5,8,0,0,none,1,1
+82,Barbara-anne Bresnen,F,404-423-8061,Georgia,329,114,2,2,4,8.56,0,1,basketball,1,1
+83,Chastity Summergill,F,561-539-9188,Florida,312,107,4,4.5,4,8.65,0,1,basketball,1,1
+84,Marigold Escale,F,240-486-8371,Maryland,318,109,1,3.5,3.5,9.12,0,0,hockey,0,1
+85,Tuck Conahy,M,229-231-9632,Georgia,320,111,4,4.5,3.5,8.87,0,1,basketball,1,1
+86,Dov Fearenside,M,309-731-6349,Illinois,301,98,1,2,3,8.03,0,1,hockey,1,1
+87,Rance Portress,M,845-572-4928,New York,310,99,2,1.5,2,7.3,0,0,hockey,0,1
+88,Elena Penfold,F,904-660-4131,Florida,315,99,2,3.5,3,7.89,1,0,basketball,0,1
+89,Shalne Denizet,F,215-409-8642,Pennsylvania,294,93,1,1.5,2,7.36,1,0,basketball,1,0
+90,Gary Kleinlerer,M,602-110-4929,Arizona,312,103,3,5,4,8.45,0,0,football,0,1
+91,Leland Doring,F,775-482-8752,Nevada,321,107,2,2,1.5,8.44,1,0,hockey,0,1
+92,Sim Castellaccio,M,718-530-1260,New York,325,112,4,4,4.5,9.17,0,1,none,0,0
+93,Lorilee Bengefield,F,541-415-0891,Oregon,330,115,5,4.5,3,9.34,0,1,basketball,1,1
+94,Dacey Morrill,F,901-495-6810,Tennessee,313,102,3,3.5,4,8.9,1,1,hockey,0,1
+95,Suzann Townsley,F,314-210-6092,Missouri,326,114,3,3,3,9.11,1,1,basketball,0,1
+96,Herby Shorthill,M,540-124-4952,Virginia,301,99,2,3,2,8.22,1,0,none,1,1
+97,Eada Crutcher,F,816-132-0254,Missouri,298,105,3,3.5,4,8.54,0,0,football,1,1
+98,Duffy Longridge,M,571-336-0170,Virginia,316,105,2,2.5,2.5,8.2,1,1,hockey,0,0
+99,Robbert McKie,M,205-737-3049,Alabama,340,113,4,5,5,9.74,0,1,basketball,1,1
+100,Henrie Tithacott,F,310-520-6406,California,307,110,4,4,4.5,8.37,1,0,basketball,0,1
+101,Harper Brewins,M,334-819-8269,Alabama,326,116,2,4.5,3,9.08,1,1,football,1,1
+102,Carmine Keane,M,704-626-7272,North Carolina,317,110,3,4,4.5,9.11,0,1,basketball,1,1
+103,Rosalynd Minigo,F,503-241-5954,Oregon,335,117,5,5,5,9.82,0,1,football,0,1
+104,Benny Measey,F,907-948-3629,Alaska,296,97,2,1.5,2,7.8,0,0,basketball,1,0
+105,Mickey Bellwood,M,315-804-7570,New York,320,104,3,3,3.5,8.74,0,1,football,1,1
+106,Jim Farbrace,M,405-262-7143,Oklahoma,321,111,3,3.5,4,8.83,0,1,none,1,1
+107,Morgun Perrigo,M,615-248-0164,Tennessee,317,101,3,3,2,7.94,1,1,football,0,0
+108,Minne Slafford,F,585-881-1837,New York,309,99,3,4,4,8.56,0,0,hockey,1,1
+109,Luke Yallowley,M,212-354-9674,New York,324,110,3,3.5,3,9.22,0,1,basketball,1,1
+110,Roby Sandy,F,410-957-0702,Maryland,316,98,1,1.5,2,7.43,1,0,basketball,1,0
+111,Alena Bruggen,F,330-837-3482,Ohio,316,109,4,4.5,3.5,8.76,0,1,football,1,1
+112,Britta Dowtry,F,916-220-7450,California,312,105,3,2,3,8.02,0,1,basketball,1,0
+113,Alec Saxon,M,212-714-8030,New York,317,103,2,2.5,2,8.15,1,0,football,0,1
+114,Giustina Rudyard,F,203-439-7573,Connecticut,307,105,2,2.5,3,7.65,0,0,hockey,1,1
+115,Meg Meachen,F,202-263-3903,District of Columbia,316,105,2,2.5,2.5,8.2,0,1,football,1,0
+116,Renaud Deinert,M,918-777-4977,Oklahoma,299,100,3,2,2,8.02,0,0,none,0,1
+117,Timofei Stodd,M,801-717-4160,Utah,331,116,5,5,5,9.38,1,1,football,0,1
+118,Samson Karpman,M,203-615-6786,Connecticut,335,118,5,4.5,3.5,9.44,0,1,none,0,1
+119,Avrom Rawcliffe,M,323-415-5580,California,307,101,3,4,3,8.2,1,0,none,1,0
+120,Hewet Facher,M,979-864-7677,Texas,321,109,3,3.5,3.5,8.8,0,1,basketball,1,1
+121,Merilee Keaton,F,805-351-8944,California,296,97,2,1.5,2,7.8,0,0,basketball,1,0
+122,Seymour Parsall,M,314-325-7198,Missouri,306,106,2,2,2.5,8.14,0,0,none,1,1
+123,Karlee Gemnett,F,304-948-3883,West Virginia,324,100,3,4,5,8.64,1,1,football,1,1
+124,Claudette McKea,F,801-103-6857,Utah,328,108,4,4.5,4,9.18,1,1,football,1,1
+125,Carolin Kohn,F,301-337-2923,Maryland,304,97,2,1.5,2,7.64,1,0,none,1,0
+126,Collete Smallacombe,F,206-478-9370,Washington,332,116,5,5,5,9.28,1,1,none,0,1
+127,Melli McAneny,F,909-222-6667,California,326,108,3,3,3.5,8.89,1,0,football,1,1
+128,Karalynn Blockley,F,213-280-5118,California,308,110,4,3.5,3,8.6,0,0,none,0,1
+129,Farlie Currin,M,203-893-4394,Connecticut,327,108,5,5,3.5,9.13,0,1,football,1,1
+130,Helen-elizabeth Hillin,F,515-491-2686,Iowa,317,107,3,4,3,8.7,1,0,football,1,1
+131,Crosby Capon,M,405-339-5954,Oklahoma,299,102,3,4,3.5,8.62,1,0,football,0,1
+132,Suzy Dagless,F,260-859-1033,Indiana,300,100,3,2,3,8.66,1,1,basketball,0,1
+133,Raddy Plott,M,915-527-0892,Texas,309,108,3,2.5,3,8.12,1,0,none,1,1
+134,Keenan Vankeev,M,617-615-5520,Massachusetts,332,118,5,5,5,9.64,0,1,none,1,1
+135,Theda Hearl,F,612-541-7196,Minnesota,321,109,4,4,4,8.68,1,1,none,1,1
+136,Delphinia Chesson,F,202-476-6387,District of Columbia,310,102,3,3.5,4,8.02,0,1,none,0,1
+137,Andriana Gladhill,F,734-476-6493,Michigan,314,104,4,5,5,9.02,0,0,football,0,1
+138,North Gallgher,M,313-245-9484,Michigan,305,102,2,2,2.5,8.18,0,0,basketball,0,1
+139,Artemas Davis,M,334-460-0583,Alabama,314,105,3,3.5,2.5,8.3,1,0,basketball,1,1
+140,Karim Mayberry,M,830-882-7117,Texas,313,107,3,4,4.5,8.69,0,0,football,0,1
+141,Lamond Metheringham,M,727-585-3269,Florida,294,95,1,1.5,1.5,7.64,0,0,none,1,0
+142,Ewart Stogill,M,928-957-8884,Arizona,324,111,3,2.5,1.5,8.79,1,1,hockey,0,1
+143,Cacilia Ornells,F,402-189-0917,Nebraska,308,104,2,2.5,3,8.07,0,0,none,1,1
+144,Kale Bruhke,M,901-861-3954,Tennessee,319,112,3,2.5,2,8.71,1,1,none,0,1
+145,Ken Gait,M,404-779-3324,Georgia,305,103,2,2.5,3.5,8.13,1,0,hockey,0,1
+146,Melinda Keane,F,225-689-4480,Louisiana,317,106,2,2,3.5,8.12,1,0,basketball,1,1
+147,Ivan Cumbridge,M,213-521-0913,California,300,102,2,1.5,2,7.87,0,0,none,0,1
+148,Othilie Vannuccini,F,202-644-4286,District of Columbia,300,100,3,3,3.5,8.26,1,0,hockey,1,1
+149,Jeanelle Dobbie,F,801-107-5531,Utah,312,108,3,3.5,3,8.53,0,0,football,0,1
+150,Raymund Briscoe,M,816-262-0402,Missouri,327,113,4,4.5,4.5,9.11,0,1,none,0,1
+151,Brunhilda Bowser,F,225-904-3921,Louisiana,323,107,3,3.5,3.5,8.55,1,1,hockey,1,1
+152,Kesley Madle,F,339-277-5562,Massachusetts,300,102,3,3.5,2.5,8.17,0,0,hockey,1,1
+153,Janette Riglesford,F,412-382-6697,Pennsylvania,308,103,2,3,3.5,8.49,1,0,none,1,1
+154,Jody Farn,M,704-757-0519,North Carolina,326,112,3,3.5,3,9.05,1,1,football,0,1
+155,Madge MacCallister,F,719-528-1663,Colorado,325,110,2,3,2.5,8.76,0,1,hockey,0,1
+156,Lacey Jerome,F,717-990-6371,Pennsylvania,322,104,3,3.5,4,8.84,0,1,none,1,1
+157,Lowell Dutton,M,915-531-1976,Texas,324,110,4,3,3.5,8.97,0,1,football,1,1
+158,Hendrika Sandell,F,702-644-5340,Nevada,298,98,2,4,3,8.03,0,0,hockey,0,0
+159,Thorn Kasher,M,915-258-3605,Texas,330,116,5,5,4.5,9.36,1,1,none,0,1
+160,Gaye Mucci,F,832-259-4430,Texas,315,110,2,3.5,3,8.46,1,1,hockey,0,1
+161,Tiffi Espadate,F,415-146-4171,California,319,108,2,2.5,3,8.76,0,0,basketball,1,1
+162,Fidole Carhart,M,315-406-0829,New York,335,115,4,4.5,4.5,9.68,0,1,hockey,1,1
+163,Hastie Cuddehay,M,937-640-2429,Ohio,307,101,3,4,3,8.2,1,0,football,0,0
+164,Ruthann McGraith,F,571-527-8297,Virginia,312,105,2,2.5,3,8.12,1,0,hockey,1,1
+165,Vincents Rowland,M,202-171-9474,District of Columbia,315,107,2,4,3,8.5,1,1,hockey,0,1
+166,Park Culver,M,617-927-7299,Massachusetts,317,107,3,3.5,3,8.68,1,1,hockey,0,1
+167,Elie Excell,F,407-201-7453,Florida,323,112,5,4,4.5,8.78,0,0,football,1,1
+168,Cassandry MacBain,F,619-717-2327,California,322,110,4,4,5,9.13,1,1,football,1,1
+169,Garnet Pally,F,571-908-4240,Virginia,301,97,2,3,3,7.88,0,1,none,0,0
+170,Verene O'Lunney,F,757-755-9291,Virginia,314,103,2,2,3,8.21,0,0,basketball,0,1
+171,Artie Pomfrey,M,915-957-3345,Texas,295,93,1,2,2,7.2,1,0,football,0,0
+172,Hetty Garbett,F,212-575-9640,New York,323,113,4,4,4.5,9.23,1,1,basketball,1,1
+173,Wilmette Adacot,F,510-616-2331,California,326,110,3,3.5,3.5,8.76,0,1,hockey,1,1
+174,Homer Hibling,M,408-679-2009,California,321,109,4,4,4,9.13,0,1,football,1,1
+175,Nessie Elder,F,915-420-1132,Texas,299,100,2,3,3.5,7.88,1,0,none,1,1
+176,Milissent Oleszkiewicz,F,202-969-3693,District of Columbia,320,110,5,5,5,9.2,0,1,football,0,1
+177,Evvie Fernandez,F,303-363-3878,Colorado,303,102,3,3.5,3,8.5,1,0,basketball,1,1
+178,Rollie Gammons,M,713-780-9924,Texas,310,106,4,1.5,2.5,8.36,0,0,none,1,1
+179,Elisa Spenclay,F,804-289-5695,Virginia,321,111,4,4,4,8.97,1,1,hockey,0,1
+180,Alecia Northcott,F,260-802-7367,Indiana,322,110,3,3,3.5,8,1,0,football,1,1
+181,Zacherie Jewers,M,414-590-7428,Wisconsin,300,104,3,3.5,3,8.16,1,0,hockey,1,1
+182,Dorrie Aseef,F,808-301-4243,Hawaii,322,105,2,3,3,8.45,1,1,football,1,1
+183,Enrico Wandrack,M,901-681-5964,Tennessee,307,108,2,4,3.5,7.7,0,0,football,0,0
+184,Norton Tremmil,M,248-423-3022,Michigan,319,106,3,3.5,2.5,8.33,0,1,basketball,1,1
+185,Eveline MacGowan,F,202-349-4319,District of Columbia,298,101,2,1.5,2,7.86,1,0,basketball,0,1
+186,Haily Yakunkin,M,732-149-6354,New Jersey,311,107,4,4.5,4.5,9,0,1,none,1,1
+187,Nevile Leftridge,M,407-442-6083,Florida,322,109,5,4.5,3.5,8.8,1,0,basketball,1,1
+188,Gianina Gill,F,360-743-0578,Washington,320,104,3,3,2.5,8.57,0,1,basketball,1,1
+189,Zacharias Hook,M,202-465-8675,District of Columbia,312,105,3,2,3,8.02,1,1,none,0,0
+190,Dillon Starling,M,334-625-0992,Alabama,327,111,4,3,4,8.4,1,1,none,1,1
+191,Bay MacDavitt,M,612-417-5275,Minnesota,320,110,5,5,4.5,9.22,1,1,football,0,1
+192,Berty Flear,M,740-138-5843,Ohio,333,117,4,5,4,9.66,0,1,football,0,1
+193,Lebbie Roscoe,F,816-723-4155,Missouri,303,98,1,2,2.5,7.65,1,0,none,1,1
+194,Anjanette Hinder,F,417-789-1303,Missouri,302,99,2,1,2,7.97,0,0,none,0,1
+195,Myrle Kindon,F,202-718-4068,District of Columbia,307,102,3,3,3,8.27,0,0,hockey,0,1
+196,Evania Narraway,F,831-350-1781,California,324,112,4,4,3.5,8.77,1,1,basketball,1,1
+197,Kass Obee,F,915-478-2513,Texas,323,108,3,3.5,3,8.6,0,0,football,1,0
+198,Schuyler Devons,M,646-835-7013,New York,318,110,3,4,3,8.8,0,0,basketball,0,1
+199,Latrena Symson,F,540-429-0086,Virginia,317,106,3,4,3.5,8.5,1,1,basketball,0,1
+200,Jesselyn Rubinfeld,F,415-945-7456,California,306,110,2,3.5,4,8.45,1,0,none,1,1
+201,Chucho Cometti,M,678-677-7819,Georgia,316,104,3,3,3.5,8,0,1,none,1,1
+202,Clim Strathearn,M,626-919-8908,California,336,119,4,4.5,4,9.62,0,1,none,0,1
+203,Fraser Lumsden,M,860-534-5395,Connecticut,296,99,2,2.5,2.5,8.03,1,0,none,1,1
+204,Udall Dobbson,M,520-619-4944,Arizona,322,107,3,3.5,3.5,8.46,0,1,none,1,1
+205,Reinald Vlasenkov,M,770-988-8840,Georgia,339,114,5,4,4.5,9.76,0,1,none,0,1
+206,Enrichetta Mille,F,518-668-2242,New York,301,104,2,3.5,3.5,7.89,1,1,basketball,1,1
+207,Joelly Lummasana,F,518-366-8013,New York,323,110,3,4,3.5,9.1,0,1,hockey,0,1
+208,Nerty Preble,F,305-348-2153,Florida,300,99,1,3,2,6.8,1,1,basketball,0,0
+209,Emmalynne Wardroper,F,203-134-5763,Connecticut,316,101,2,2.5,2,8.32,0,1,hockey,1,1
+210,Rozalin Arr,F,910-712-0586,North Carolina,327,112,3,3,3,8.72,1,1,football,0,1
+211,Anastasia Wickstead,F,320-258-7059,Minnesota,326,111,5,4.5,4,9.23,1,1,basketball,1,1
+212,Marthe Chmarny,F,808-148-7815,Hawaii,305,108,5,3,3,8.48,1,0,hockey,1,1
+213,Panchito Powner,M,512-933-2715,Texas,309,100,2,3,3,8.1,1,0,none,0,0
+214,Neala Szymoni,F,623-970-7770,Arizona,323,110,5,4,5,8.98,0,1,none,1,1
+215,Maighdiln Hudless,F,202-954-6818,District of Columbia,334,117,5,4,4.5,9.07,1,1,basketball,1,1
+216,Gavrielle Ricca,F,808-590-7192,Hawaii,299,94,1,1,1,7.34,1,0,football,0,0
+217,Reynold O'Halleghane,M,202-987-5783,District of Columbia,298,99,2,4,2,7.6,0,0,football,0,0
+218,Jerrine Player,F,734-946-2876,Michigan,320,108,3,3.5,4,8.44,0,1,football,0,1
+219,Blinnie Lambourn,F,231-308-4682,Michigan,312,107,3,3,2,7.9,1,1,none,0,1
+220,Frieda Vlasenkov,F,518-141-1985,New York,301,97,2,3,3,7.88,0,1,football,1,0
+221,Winonah Brodnecke,F,813-437-1245,Florida,308,106,3,3,3,8.24,0,0,none,1,1
+222,Roberta Martina,F,202-380-9039,District of Columbia,303,105,5,5,4.5,8.65,0,0,none,0,1
+223,Vernon Huws,M,937-189-7365,Ohio,304,100,4,1.5,2.5,7.84,0,0,football,0,0
+224,Tressa Maciak,F,718-828-8406,New York,322,110,3,4,5,8.64,1,1,basketball,0,1
+225,Jase Anthoine,M,901-118-2715,Tennessee,324,107,5,3.5,4,8.66,0,1,football,1,1
+226,Darda Wesgate,F,714-846-2828,California,324,110,3,3.5,4,8.87,1,1,hockey,1,1
+227,Daria Monni,F,202-876-5970,District of Columbia,310,107,3,3.5,3.5,8.67,0,0,none,0,1
+228,Chalmers Lamar,M,401-314-9693,Rhode Island,338,117,4,3.5,4.5,9.46,1,1,football,1,1
+229,Ulrika Rolance,F,901-781-5747,Tennessee,298,98,2,1.5,2.5,7.5,0,1,football,0,0
+230,Bevan Waryk,M,832-202-3685,Texas,339,116,4,4,3.5,9.8,1,1,hockey,1,1
+231,Annmarie Charke,F,619-755-4744,California,326,112,3,3.5,3,9.1,1,1,hockey,1,1
+232,Arlyne Seres,F,202-603-9072,District of Columbia,298,99,1,1.5,3,7.46,0,0,none,0,1
+233,Rosalia Rathe,F,719-454-6063,Colorado,321,111,5,5,5,9.45,0,1,football,1,1
+234,Thorvald D'Elia,M,210-398-7947,Texas,320,104,3,3.5,4.5,8.34,1,1,hockey,0,1
+235,Barty Gordge,M,216-928-2908,Ohio,316,99,2,2.5,3,9,0,0,basketball,1,1
+236,Dehlia Boother,F,208-544-6955,Idaho,301,100,3,3.5,3,8.04,0,0,football,0,1
+237,Sharline Bridgen,F,806-789-5271,Texas,327,113,3,3.5,3,8.66,0,1,football,1,1
+238,Buckie Arr,M,210-352-6447,Texas,322,114,5,4.5,4,8.94,0,1,football,0,1
+239,Madella Malimoe,F,401-576-1970,Rhode Island,308,108,3,3.5,3.5,8.22,0,0,football,1,1
+240,Johnnie Everley,M,512-105-2218,Texas,299,97,3,5,3.5,7.66,1,0,basketball,1,0
+241,Saundra Pidgen,F,347-791-6176,New York,331,120,3,4,4,8.96,0,1,football,1,1
+242,Milka Flippini,F,804-119-2643,Virginia,333,113,5,4,4,9.28,1,1,none,1,1
+243,Pandora Lissenden,F,910-988-4000,North Carolina,337,118,4,4.5,4.5,9.65,1,1,basketball,0,1
+244,Morna Ferrier,F,937-191-4702,Ohio,298,99,2,4,2,7.6,0,0,football,0,0
+245,Scottie Barsam,M,515-856-6852,Iowa,323,113,3,4,4,8.88,0,1,hockey,0,1
+246,Micaela Cholwell,F,518-915-2438,New York,324,110,4,4.5,4,9.15,0,1,hockey,1,1
+247,Lefty Carlisso,M,228-357-2173,Mississippi,329,111,4,4.5,4,9.23,1,1,none,0,1
+248,Sheelah Driutti,F,484-103-2832,Pennsylvania,327,114,3,3,3,9.02,0,0,none,1,1
+249,Fabiano Drivers,M,573-964-0281,Missouri,316,102,3,2,3,7.4,0,0,hockey,1,1
+250,Dacy MacCallum,F,816-593-0841,Missouri,312,105,2,2,2.5,8.45,0,0,hockey,1,1
+251,Valma Chable,F,630-307-8625,Illinois,332,119,4,5,4.5,9.24,0,1,none,0,1
+252,Bartram Slocom,M,914-314-8207,New York,298,92,1,2,2,7.88,1,0,basketball,1,1
+253,Malchy Roget,M,303-949-3245,Colorado,308,101,2,3,4,7.9,1,0,football,0,1
+254,Demetris Drayton,F,626-469-0891,California,301,107,3,3.5,3.5,8.34,1,1,basketball,0,1
+255,Calhoun Leatherbarrow,M,850-277-8177,Florida,338,118,4,3,4.5,9.4,0,1,football,1,1
+256,Irvin Buer,M,212-568-8154,New York,323,113,3,4,3,9.32,1,1,hockey,0,1
+257,Audy McGorley,F,702-237-9310,Nevada,334,116,4,4,3.5,9.54,1,1,football,1,1
+258,Henry Lemonnier,M,936-253-7817,Texas,314,107,3,3,3.5,8.17,1,1,none,1,1
+259,Sharai Grafham,F,786-435-5373,Florida,331,119,4,5,4.5,9.34,1,1,basketball,1,1
+260,Kelly Demogeot,F,404-117-4027,Georgia,321,112,5,5,5,9.06,1,1,hockey,0,1
+261,Melonie Dashper,F,615-569-5107,Tennessee,305,107,2,2.5,2.5,8.42,0,0,football,1,1
+262,Myrta Playfoot,F,314-246-8197,Missouri,323,108,3,3.5,3,8.6,1,0,hockey,1,0
+263,Philipa Garrett,F,402-941-9917,Nebraska,299,100,3,2,3,7.42,1,0,football,0,0
+264,Gauthier Milmo,M,651-321-4888,Minnesota,317,105,3,3.5,3,8.56,0,0,football,1,1
+265,Dyana Ohm,F,601-501-3634,Mississippi,311,104,2,2,2,8.3,1,0,football,0,0
+266,Ginnifer Bathowe,F,785-699-5647,Kansas,336,112,5,5,5,9.76,0,1,hockey,1,1
+267,Nola Padbery,F,323-897-1531,California,339,119,5,4.5,4,9.7,1,0,none,0,1
+268,Lindi Woodford,F,816-842-8659,Missouri,334,120,5,4,5,9.87,1,1,football,1,1
+269,Rriocard Leiden,M,213-871-8401,California,297,96,2,2.5,1.5,7.89,0,0,hockey,1,0
+270,Tess Lidington,F,570-129-0454,Pennsylvania,315,106,3,4.5,3.5,8.42,0,0,basketball,1,1
+271,Patton Boote,M,302-831-7295,Delaware,333,118,5,5,5,9.35,0,1,football,0,1
+272,Zelda Spedroni,F,205-543-0802,Alabama,299,94,1,1,1,7.34,0,0,hockey,1,0
+273,Kile Cox,M,704-156-7068,North Carolina,313,106,2,2.5,2,8.43,1,0,basketball,1,1
+274,Farlee Biles,M,208-137-8201,Idaho,332,118,2,4.5,3.5,9.36,1,1,basketball,1,1
+275,Rafaellle Arsmith,M,818-243-0130,California,329,119,4,4.5,4.5,9.16,1,1,basketball,0,1
+276,Bradney Durban,M,407-241-7240,Florida,314,107,2,2.5,4,8.56,1,0,football,1,1
+277,Trudey Oguz,F,504-679-8516,Louisiana,317,100,2,3,2.5,8.57,1,0,football,0,1
+278,Merridie Traice,F,509-782-0849,Washington,340,120,5,4.5,4.5,9.6,0,1,none,1,1
+279,Giulio Hothersall,M,601-576-1144,Mississippi,299,96,2,1.5,2,7.86,1,0,football,0,1
+280,Jeane Sones,F,216-770-9781,Ohio,320,110,2,4,3.5,8.56,1,0,basketball,1,1
+281,Ethelbert Cottingham,M,334-667-7132,Alabama,310,106,4,4.5,4.5,9.04,0,1,football,0,1
+282,Witty Houten,M,323-208-3324,California,323,108,5,4,4,8.74,0,1,football,0,1
+283,Stanly Geockle,M,502-864-5570,Kentucky,311,104,3,4.5,4.5,8.43,1,0,hockey,0,1
+284,Giselle Grenshiels,F,913-681-8064,Kansas,325,112,4,3.5,3.5,8.92,1,0,none,1,1
+285,Leigh Stobart,M,954-582-9699,Florida,300,97,2,3,3,8.1,0,1,basketball,1,1
+286,Carmon Goshawke,F,918-316-2964,Oklahoma,315,103,1,1.5,2,7.86,1,0,none,0,1
+287,Melitta Iacovacci,F,713-486-8472,Texas,312,106,3,4,3.5,8.79,1,1,none,1,1
+288,Terrence Bratt,M,212-419-9237,New York,305,105,2,3,4,8.13,1,0,none,0,1
+289,Tasha Van Der Weedenburg,F,718-583-9272,New York,319,110,3,3.5,3.5,9.04,0,0,hockey,1,1
+290,Abbie Dickerson,F,412-703-4235,Pennsylvania,331,115,5,4.5,3.5,9.36,0,1,football,1,1
+291,Tony Antognoni,M,407-154-1938,Florida,297,96,2,2.5,2,7.43,1,0,basketball,1,0
+292,Evangeline Balhatchet,F,304-484-1824,West Virginia,315,105,3,2,2.5,8.48,1,0,none,0,1
+293,Ashia Starford,F,914-850-8074,New York,316,110,3,3.5,4,8.56,0,0,football,0,1
+294,Olimpia Rablan,F,805-206-3239,California,319,103,4,4.5,3.5,8.66,1,0,hockey,0,1
+295,Jeddy Sainter,M,203-934-5031,Connecticut,328,110,4,4,2.5,9.02,0,1,basketball,1,1
+296,Consuelo Dome,F,217-663-2581,Illinois,334,116,4,4,3,8,0,1,none,0,1
+297,Jan Thieme,M,806-186-5303,Texas,316,110,3,4,4.5,8.78,0,1,football,1,1
+298,Lyell Bletcher,M,615-102-7581,Tennessee,326,112,4,4,3.5,9.12,1,1,basketball,0,1
+299,Dicky Dwyer,M,857-336-5844,Massachusetts,304,103,5,5,4,8.64,0,0,none,0,1
+300,Wilt Kwiek,M,202-339-7134,District of Columbia,336,118,5,4.5,4,9.19,0,1,basketball,1,1
+301,Culley Stanier,M,626-636-5880,California,302,101,2,2.5,3.5,7.96,0,0,none,0,0
+302,Clementina Maxsted,F,202-258-2643,District of Columbia,325,114,4,3,2,8.4,0,0,none,1,1
+303,Juanita Azemar,F,941-614-5778,Florida,297,96,2,2.5,2,7.43,0,0,basketball,0,0
+304,Michaella Coonihan,F,678-519-0544,Georgia,331,117,4,4.5,5,9.42,0,1,basketball,0,1
+305,Ruthie Guly,F,937-287-2311,Ohio,325,114,3,3.5,3,9.04,1,1,hockey,1,1
+306,Carlyle Ladon,M,859-479-5160,Kentucky,324,107,4,4,4.5,8.87,1,1,football,1,1
+307,Leopold Alldread,M,602-933-9304,Arizona,338,120,4,5,5,9.66,1,1,basketball,1,1
+308,Mordy Hardwell,M,612-749-3092,Minnesota,313,98,3,2.5,4.5,8.3,0,1,basketball,0,1
+309,Abeu Baptie,M,212-320-7705,New York,332,118,5,5,5,9.47,1,1,basketball,1,1
+310,Saul Echalier,M,303-161-0049,Colorado,311,104,2,2.5,3.5,8.48,1,0,hockey,1,1
+311,Sheri Bronger,F,804-241-7693,Virginia,311,98,1,1,2.5,7.46,0,0,none,0,1
+312,Haven Lotwich,M,312-882-9958,Illinois,316,109,3,3.5,3,8.76,1,0,hockey,0,1
+313,Hadleigh Carlett,M,510-319-2278,California,340,120,4,5,5,9.5,0,1,football,0,1
+314,Ranna Godly,F,713-481-8198,Texas,307,108,2,4,3.5,7.7,1,0,none,1,0
+315,Milena Gallatly,F,402-635-3978,Nebraska,313,107,2,2.5,2,8.5,0,1,football,1,1
+316,Adrianne Lamar,F,316-747-5018,Kansas,318,112,3,4,3.5,8.67,1,0,hockey,0,1
+317,Johna Daldry,F,210-532-9964,Texas,304,100,4,1.5,2.5,7.84,1,0,none,1,0
+318,Dalli Cathrae,M,256-379-9277,Alabama,321,110,3,3.5,5,8.85,0,1,basketball,0,1
+319,Alonso Gryglewski,M,714-712-8420,California,331,112,5,4,5,9.8,0,1,football,0,1
+320,Rudd Bullivent,M,405-530-9933,Oklahoma,311,104,2,2,2,8.3,1,0,none,0,0
+321,Enrico Thuillier,M,949-394-2026,California,314,108,4,4.5,4,9.04,0,1,basketball,0,1
+322,Dyan Tunstall,F,202-658-8950,District of Columbia,325,112,2,3,3.5,8.96,0,1,basketball,0,1
+323,Etta Toulmin,F,865-647-5695,Tennessee,295,101,2,2.5,2,7.86,0,0,hockey,1,1
+324,Sean Delmonti,M,321-540-9864,Florida,290,100,1,1.5,2,7.56,1,0,basketball,0,0
+325,Christean Whitters,F,818-340-2197,California,320,120,3,4,4.5,9.11,1,0,none,0,1
+326,Cacilia O'Cannavan,F,713-812-7452,Texas,302,102,3,3.5,5,8.33,1,0,basketball,0,1
+327,Tybi Leimster,F,713-819-1833,Texas,327,113,4,3.5,3,8.69,1,1,football,0,1
+328,Eda Kehir,F,757-307-9626,Virginia,309,100,2,3,3,8.1,1,0,none,1,0
+329,Melita Astle,F,727-160-6717,Florida,296,95,2,3,2,7.54,0,1,none,0,0
+330,Rubina Stratley,F,504-805-1228,Louisiana,327,109,3,3.5,4,8.77,1,1,football,0,1
+331,Wilt Vittori,M,951-283-3125,California,320,103,3,3,3,7.7,1,0,hockey,1,1
+332,Julie Frearson,M,914-959-6247,New York,321,114,4,4,5,9.12,1,0,hockey,1,1
+333,Noemi Compfort,F,503-462-5296,Oregon,290,104,4,2,2.5,7.46,0,0,football,1,0
+334,Alena Petroff,F,415-395-8764,California,328,112,4,4,4.5,9.1,0,1,football,1,1
+335,Jacklin Greschke,F,574-382-5451,Indiana,335,117,5,5,5,9.56,1,1,basketball,1,1
+336,Baxy Fairhall,M,432-497-6546,Texas,318,109,3,3,3,8.5,0,0,basketball,1,1
+337,Eloisa Minocchi,F,205-447-8994,Alabama,314,107,2,2.5,4,8.27,0,0,football,1,1
+338,Edna Ranklin,F,678-806-1959,Georgia,298,97,2,2,3,7.21,0,0,hockey,0,0
+339,Logan Stebbings,M,405-309-5670,Oklahoma,322,112,4,4.5,4.5,9.26,0,1,basketball,0,1
+340,Deeanne Champerlen,F,484-351-4273,Pennsylvania,319,106,3,4,3,8,0,1,hockey,0,1
+341,Silvano Caldero,M,915-214-3622,Texas,330,113,5,5,4,9.31,1,1,none,1,1
+342,Walden Betz,M,202-332-2770,District of Columbia,325,111,3,3,3.5,8.7,1,0,football,0,1
+343,Angelia Menier,F,517-406-9205,Michigan,312,98,1,3.5,3,8.18,0,1,hockey,1,1
+344,Marlena Schimaschke,F,971-597-3894,Oregon,325,108,4,4.5,4,9.06,0,1,hockey,1,1
+345,Barbi Wheaton,F,304-998-4650,West Virginia,330,114,3,4.5,4.5,9.24,0,1,basketball,0,1
+346,Wanids Upjohn,F,916-401-1088,California,336,119,5,4,3.5,9.8,1,1,football,1,1
+347,Ram Phippen,M,225-981-6344,Louisiana,299,97,3,5,3.5,7.66,0,0,none,0,0
+348,Russell Dilland,M,412-469-4569,Pennsylvania,325,112,4,4,4,9,0,1,football,0,1
+349,Torey Jonin,M,617-693-3346,Massachusetts,299,100,1,1.5,2,7.89,1,0,none,0,1
+350,Sheree Endricci,F,314-510-4391,Missouri,327,113,4,4.5,5,9.14,1,0,football,0,1
+351,Raddie Gurner,M,915-309-0249,Texas,311,106,2,3.5,3,8.26,0,1,none,0,1
+352,Rhea Knappitt,F,803-558-4397,South Carolina,304,105,1,3,1.5,7.5,1,0,football,1,1
+353,Sig Atter,M,337-112-6264,Louisiana,329,114,5,4.5,5,9.19,1,1,none,1,1
+354,Perle Dugdale,F,770-656-1014,Georgia,322,115,5,4,4.5,9.36,0,1,basketball,1,1
+355,Pearline Goold,F,719-561-0563,Colorado,333,119,5,5,4.5,9.78,0,1,hockey,0,1
+356,Benedetta Swannack,F,310-873-7544,California,324,111,4,3,3,9.01,0,1,hockey,1,1
+357,Fabe Daniels,M,360-975-2101,Washington,308,106,3,3.5,2.5,8.21,1,1,football,0,1
+358,Matthiew Jestico,M,937-373-2384,Ohio,307,107,2,3,3.5,8.52,0,1,none,0,1
+359,Tremain Dirkin,M,419-991-5238,Ohio,310,104,3,2,3.5,8.37,0,0,football,0,1
+360,Kennett Maroney,M,330-914-5707,Ohio,312,107,2,2.5,3.5,8.27,0,0,football,0,1
+361,Milton McGonigle,M,202-823-1650,District of Columbia,312,104,3,3.5,4,8.09,0,0,football,1,1
+362,Mac Phizackarley,M,314-775-2437,Missouri,317,103,3,2.5,3,8.54,0,1,football,0,1
+363,Sammy Copcott,M,510-948-9312,California,330,116,4,5,4.5,9.45,0,1,none,1,1
+364,Carmelita Scanes,F,864-449-3477,South Carolina,296,99,2,3,3.5,7.28,1,0,hockey,1,0
+365,Aymer Schroder,M,503-770-1579,Oregon,313,102,3,2,3,8.27,1,0,none,1,1
+366,Ring Rilings,M,240-436-3394,Maryland,298,98,2,4,3,8.03,0,0,basketball,0,0
+367,Teodoor Durtnel,M,901-307-9093,Tennessee,321,111,3,2.5,3,8.9,1,1,basketball,0,1
+368,Janel Deekes,F,213-785-6489,California,338,115,5,4.5,5,9.23,0,1,basketball,1,1
+369,Leif Harback,M,571-149-2815,Virginia,308,110,3,3.5,3,8,1,1,football,1,0
+370,Paloma Masdin,F,480-378-3042,Arizona,315,104,3,3,2.5,8.33,0,0,basketball,0,1
+371,Boy Chase,M,614-258-2773,Ohio,318,106,3,2,3,8.65,0,0,football,0,1
+372,Walther Goucher,M,850-324-8721,Florida,324,113,4,4.5,4,8.79,0,0,basketball,1,1
+373,Fancie Fulop,F,404-532-5081,Georgia,318,107,3,3,3.5,8.27,1,1,hockey,0,1
+374,Feliks Denniss,M,209-718-5241,California,334,119,5,5,4.5,9.7,1,1,football,0,1
+375,Killie MacGiolla,M,303-525-7243,Colorado,305,106,2,3,3,8.16,0,0,hockey,0,1
+376,Katy Pymar,F,304-874-1782,West Virginia,313,101,3,2.5,3,8.04,1,0,hockey,0,1
+377,Cecilius Gartenfeld,M,310-116-3100,California,329,110,2,4,3,9.15,1,1,basketball,0,1
+378,Marigold Pentlow,F,916-985-5896,California,340,114,5,4,4,9.6,0,1,basketball,1,1
+379,Michele Grasha,M,954-582-8232,Florida,316,100,2,1.5,3,8.16,0,1,football,0,1
+380,Dionne Lere,F,630-585-0199,Illinois,329,113,5,5,4.5,9.45,1,1,football,0,1
+381,Townie Simper,M,586-764-6562,Michigan,297,100,1,1.5,2,7.9,0,0,football,1,1
+382,Bert Costen,M,865-672-5524,Tennessee,314,105,2,2.5,2,7.64,0,0,football,1,1
+383,Felicle Lorrimer,F,415-987-0107,California,311,105,2,3,2,8.12,0,1,none,0,1
+384,Kristi Scurrer,F,757-218-9399,Virginia,325,110,4,3.5,4,8.67,0,1,hockey,0,1
+385,Ruttger Ferencz,M,214-997-6914,Texas,295,96,2,1.5,2,7.34,0,0,none,0,0
+386,Cathlene Service,F,316-336-1717,Kansas,296,95,2,3,2,7.54,1,1,none,0,0
+387,Kaine Verner,M,913-656-2715,Kansas,306,105,2,3,2.5,8.26,1,0,football,0,1
+388,Jourdain Deehan,M,951-292-4722,California,295,82,2,3,4,6.58,1,0,football,1,0
+389,Adrienne Dugget,F,321-815-7932,Florida,340,120,4,4.5,4,9.92,1,1,none,1,1
+390,Goran Lisciandri,M,813-980-4748,Florida,330,114,4,4.5,3,9.17,0,1,none,1,1
+391,Waldemar Kryska,M,323-914-5053,California,312,101,2,2.5,3.5,8.04,0,1,none,1,1
+392,Jordana Maris,F,859-699-5816,Kentucky,314,102,2,2,2.5,8.24,1,0,none,0,1
+393,Timmi Hansberry,F,806-446-2599,Texas,314,109,4,3.5,4,8.77,0,1,hockey,1,1
+394,Any Janeczek,M,570-270-6693,Pennsylvania,295,99,1,2,1.5,7.57,0,0,basketball,1,0
+395,Orrin Eliasen,M,727-285-5735,Florida,304,100,2,2.5,3.5,8.07,1,0,hockey,0,1
+396,Lilly Abson,F,510-456-6066,California,319,110,3,3,2.5,8.79,1,0,hockey,0,1
+397,Nickolai Havelin,M,757-828-3320,Virginia,328,115,4,4.5,4,9.16,1,1,none,0,1
+398,Byron Dinse,M,312-301-6668,Illinois,340,115,5,4.5,4.5,9.45,0,1,football,0,1
+399,Lonny Skowcraft,M,763-153-9212,Minnesota,318,109,3,3.5,4,9.22,1,1,none,1,1
+400,Rasia Bunford,F,770-313-9861,Georgia,324,114,5,5,4.5,9.08,0,1,none,1,1
+401,Nerissa Augustin,F,210-856-5948,Texas,314,106,3,3,5,8.9,0,0,basketball,0,1
+402,Kaja Wyllie,F,571-292-7676,Virginia,327,104,5,3,3.5,8.84,1,1,basketball,0,1
+403,Griselda Domney,F,910-266-0476,North Carolina,326,116,3,3.5,4,9.14,0,1,football,0,1
+404,Ryon Petera,M,215-861-9482,Pennsylvania,336,118,5,4.5,5,9.53,0,1,basketball,1,1
+405,Barbara Torrijos,F,952-816-0479,Minnesota,311,105,3,3.5,3,8.45,1,1,football,1,1
+406,Matti Vallis,F,202-590-2320,District of Columbia,299,106,2,4,4,8.4,0,0,hockey,0,1
+407,Patrica Halwood,F,512-409-1929,Texas,315,105,3,2,2.5,8.34,1,0,basketball,0,1
+408,Elicia Pedlingham,F,571-586-4311,Virginia,315,105,2,2,2.5,7.65,0,0,basketball,1,0
+409,Ofella Cancelier,F,704-142-2374,North Carolina,317,107,2,3.5,3,8.28,1,0,basketball,0,1
+410,Lynnett Frantzen,F,337-927-0621,Louisiana,318,106,2,4,4,7.92,0,1,none,1,1
+411,Decca Kayne,M,714-835-7672,California,312,99,1,1,1.5,8.01,0,1,hockey,0,1
+412,Zack Potkin,M,425-980-1978,Washington,334,119,5,4.5,4.5,9.48,0,1,none,0,1
+413,Aura MacCurtain,F,352-410-9530,Florida,319,105,3,3,3.5,8.67,1,1,hockey,0,1
+414,Micah Noar,M,616-157-0426,Michigan,309,105,5,3.5,3.5,8.56,0,0,none,1,1
+415,Carri Sahnow,F,714-901-6122,California,318,100,2,2.5,3.5,8.54,0,1,football,1,1
+416,Anet Hanrahan,F,805-446-8732,California,308,109,2,3,4,8.45,1,0,none,1,1
+417,Berthe Bielfeldt,F,785-689-3749,Kansas,321,109,3,3,3,8.54,0,1,hockey,0,1
+418,Ruthe Baxstair,F,719-493-3608,Colorado,321,109,3,3,4,8.2,1,1,basketball,1,1
+419,Justine Hawkridge,F,323-813-8728,California,312,109,3,3,3,8.69,0,0,hockey,1,1
+420,Olympie Dun,F,203-460-7460,Connecticut,311,99,2,2.5,3,7.98,0,0,basketball,1,1
+421,Sholom Trazzi,M,405-848-3954,Oklahoma,304,97,2,1.5,2,7.64,0,0,basketball,1,0
+422,Chen Swenson,M,434-907-2887,Virginia,331,115,5,4,3.5,9.44,0,1,none,0,1
+423,Austen Isacq,M,404-570-0202,Georgia,312,104,3,3.5,3.5,8.42,1,0,hockey,0,1
+424,Petrina Capaldi,F,214-460-3290,Texas,320,101,2,2.5,3,8.62,1,0,basketball,1,1
+425,Elliott Pickin,M,559-235-8775,California,295,99,2,2.5,3,7.65,1,0,hockey,0,1
+426,Fran Prosch,F,785-132-8776,Kansas,332,117,4,4.5,4,9.1,1,0,none,0,1
+427,Ara Custard,F,405-724-0536,Oklahoma,324,112,4,4,2.5,8.1,0,1,none,0,1
+428,Ado Morrant,M,909-492-7073,California,322,110,5,4.5,4,8.97,0,0,none,0,1
+429,Georgette Desquesnes,F,832-832-3623,Texas,323,104,3,4,4,8.44,1,1,hockey,1,1
+430,Anton Crossfield,M,254-125-0537,Texas,304,102,2,3,4,8.73,0,0,none,1,1
+431,Marcelo Foote,M,510-517-6442,California,320,113,2,2,2.5,8.64,1,1,hockey,0,1
+432,Celene Fairey,F,858-451-0582,California,312,110,2,3.5,3,8.53,1,0,basketball,0,1
+433,Wendell Proom,M,718-657-3964,New York,324,110,3,3.5,3.5,9.04,1,1,hockey,0,1
+434,Benedetto Harraway,M,754-400-4200,Florida,297,98,2,2.5,3,7.67,1,0,hockey,0,1
+435,Pat Gabala,M,415-414-0699,California,308,108,4,4.5,5,8.34,0,0,basketball,0,1
+436,Claus Meeson,M,682-168-3919,Texas,295,93,1,2,2,7.2,1,0,none,0,0
+437,Don Caslett,M,813-662-0185,Florida,317,104,2,4.5,4,8.47,0,0,basketball,0,1
+438,Mick Decreuze,M,208-375-7440,Idaho,306,100,2,3,3,8,1,0,none,0,0
+439,Harp Over,M,701-857-0388,North Dakota,340,112,4,5,4.5,9.66,1,1,basketball,1,1
+440,Jenifer Aartsen,F,205-943-2857,Alabama,307,109,3,4,3,8,1,1,basketball,0,1
+441,Camila Masser,F,202-870-4056,Virginia,280,94,1,4,3,8.89,0,1,none,0,1
+442,Kerwin Eyrl,M,704-182-7611,North Carolina,289,116,2,3,1.5,8.1,1,1,football,0,0
+443,Orran Hrihorovich,M,609-629-7227,New Jersey,300,86,5,1.5,1,8.93,0,0,football,1,0
+444,Papageno Blazynski,M,334-160-2039,Alabama,337,97,2,3,4.5,7.54,1,1,none,0,1
+445,Gerome Meckiff,M,832-756-2192,Texas,288,120,4,2.5,3,6.45,1,1,none,1,0
+446,Meier McGaughie,M,305-972-9505,Florida,316,115,4,4.5,2.5,8.15,1,1,none,0,0
+447,Christan Bohman,F,760-818-8847,California,311,94,4,3,1,8.84,1,0,basketball,1,0
+448,Neall Foffano,M,317-269-9557,Indiana,294,118,1,4,1.5,6.86,0,1,basketball,1,0
+449,Roxanne Endean,F,760-770-6918,California,311,86,2,4,1,6.45,1,1,none,0,0
+450,Elene Melpuss,F,915-294-1992,Texas,324,115,1,3.5,3,8.88,1,0,none,1,1
+451,Dun Anney,M,915-170-7378,Texas,333,99,4,4.5,4,8.06,1,1,none,1,1
+452,Haily Spacey,M,701-101-5145,North Dakota,335,107,1,2.5,5,8.71,0,1,none,1,0
+453,Bellanca Custy,F,706-356-8961,Georgia,319,112,5,2,4.5,7.9,0,0,basketball,0,1
+454,Sheff Nelle,M,502-726-5346,Kentucky,282,97,1,4.5,5,9.18,1,0,none,0,1
+455,Frannie Laurentino,F,206-910-5654,Washington,282,101,2,3,4.5,7.96,1,1,none,1,1
+456,Miner Flavelle,M,253-577-4623,Washington,288,103,2,4,3,8.2,0,0,hockey,0,1
+457,Thorny Ayre,M,704-621-3846,North Carolina,315,119,3,2.5,5,7.45,1,0,football,0,0
+458,Burnard Geldeard,M,202-675-5683,District of Columbia,299,81,4,3,2.5,5.88,1,1,football,1,0
+459,Lacey Rawlings,F,713-608-3971,Texas,318,89,2,1,3.5,9.01,0,1,none,0,0
+460,Sindee Jans,F,405-591-2459,Oklahoma,295,108,1,3.5,3.5,5.32,1,0,none,0,0
+461,Blinni Ceschelli,F,330-727-0653,Ohio,296,113,4,5,4.5,6.48,0,0,none,0,1
+462,Lammond Fruin,M,508-342-8548,Massachusetts,310,116,3,1.5,2,6.33,0,1,none,0,1
+463,Gerome Louys,M,304-596-0966,West Virginia,325,114,1,2.5,1,9.81,1,1,football,1,1
+464,Georgianne Liveing,F,801-651-3884,Utah,285,101,4,3,3,5.69,1,1,none,1,0
+465,Lorettalorna Kolak,F,423-563-2506,Tennessee,301,95,1,1.5,4.5,6.75,1,1,hockey,0,0
+466,Kristos Caltun,M,775-419-3771,Nevada,281,105,3,5,2,7.23,1,0,football,1,1
+467,Giacomo Soall,M,402-735-9754,Nebraska,294,91,2,2.5,2,8.54,0,0,football,0,0
+468,Brigida Barbie,F,949-725-4350,California,305,108,2,3.5,1,6.88,0,1,basketball,0,0
+469,Justin Nathan,M,217-651-1294,Illinois,315,95,5,3,3.5,8.21,0,0,none,0,0
+470,Denny Heindl,F,817-173-6454,Texas,292,114,2,3.5,2.5,5.66,0,0,basketball,1,0
+471,Patsy Garci,F,775-998-5541,Nevada,301,83,2,4,3,7.56,1,1,none,1,0
+472,Jemmie Derye-Barrett,F,803-831-8246,South Carolina,305,120,5,2,1.5,9.12,0,0,football,1,0
+473,Lemuel Stride,M,405-283-3341,Oklahoma,283,105,2,3,3,8.25,0,1,basketball,0,0
+474,Barry MacCook,M,909-903-6346,California,283,119,1,3,2.5,8.22,0,0,football,1,0
+475,Stevena Knyvett,F,716-809-5426,New York,284,102,5,2,2.5,7.24,1,0,none,1,1
+476,Kaitlynn Hartfield,F,501-924-8674,Arkansas,292,97,4,3,1.5,7.54,1,1,basketball,0,0
+477,Alexandre Flanne,M,718-975-3194,New York,283,103,4,5,4,6.56,1,0,basketball,1,1
+478,Norris Spowage,M,215-791-9200,Pennsylvania,307,107,2,3,2,5.88,1,1,football,0,1
+479,Enrica Skittreal,F,304-788-6838,West Virginia,287,96,3,4.5,1.5,6.39,1,1,none,1,1
+480,Ceciley Wysome,F,602-844-4884,Arizona,292,114,1,3,1,6.99,0,0,none,0,0
+481,Myrta Uren,F,616-106-7338,Michigan,322,88,4,3.5,1,7.64,0,0,basketball,0,0
+482,Roger Minchell,M,303-151-5134,Colorado,270,101,2,1.5,2.5,9.45,0,1,basketball,0,0
+483,Malcolm Link,M,702-312-1595,Nevada,282,99,5,3.5,4.5,8.65,0,0,none,1,0
+484,Parrnell Wingate,M,304-980-8427,West Virginia,334,94,3,3.5,2.5,7.35,1,1,basketball,0,1
+485,Benetta Gregori,F,941-371-9347,Florida,283,94,3,3,2,6.21,0,0,hockey,0,0
+486,Sherline Rickett,F,585-124-3186,New York,286,96,1,2.5,2.5,8.22,0,1,hockey,1,1
+487,Jecho McNaughton,M,772-777-7244,Florida,326,99,1,5,3.5,7.12,1,1,none,0,0
+488,Ax Sisson,M,228-917-0854,Mississippi,323,110,2,3,2,9.58,1,1,none,0,1
+489,Halette Lockier,F,954-866-5313,Florida,323,111,4,2,3.5,9.81,1,1,none,0,1
+490,Obidiah Cadreman,M,260-734-0139,Indiana,304,88,4,5,1.5,8.32,0,0,basketball,1,0
+491,Millicent Slay,F,330-322-9863,Ohio,293,96,2,4.5,4.5,6.32,1,0,football,0,1
+492,Perkin Bugs,M,661-735-2733,California,319,112,5,4,2.5,9.38,1,0,none,0,0
+493,Putnem Cloute,M,702-249-5346,Nevada,273,94,5,1,4.5,7.56,1,1,hockey,0,1
+494,Avrit Arghent,F,315-560-9594,New York,326,116,5,1.5,1.5,8.84,0,0,football,1,1
+495,Clare Bembridge,F,970-887-6949,Colorado,334,89,2,2,4,9.24,1,0,none,0,0
+496,Guinna Zuenelli,F,915-336-6463,Texas,304,99,1,5,4,5.77,0,1,none,1,1
+497,Marshal Broschek,M,210-471-6008,Texas,304,90,5,3,3.5,9.51,1,0,hockey,0,0
+498,Peder Najara,M,937-779-8246,Ohio,333,111,3,1,4.5,9.88,1,0,none,1,1
+499,Elizabeth Wattisham,F,228-970-6306,Mississippi,288,100,1,2,4,8.62,0,0,basketball,1,0
+500,Teodora Lacasa,F,318-328-7740,Louisiana,282,101,1,3,2,9.21,0,1,none,1,0
+501,Zachariah Danilov,M,254-140-3372,Texas,322,101,2,5,1.5,8.99,1,1,none,1,0
+502,Aeriell Abbets,F,303-725-5472,Colorado,295,109,2,3,3,8.24,0,1,none,1,1
+503,Livvyy Penni,F,619-872-4499,California,299,80,3,3,3,6.35,0,0,basketball,1,0
+504,Lamond Giacobbo,M,937-509-9110,Ohio,293,91,3,1.5,1.5,8.05,0,0,hockey,1,0
+505,Nanete Dickerson,F,571-472-8308,Virginia,338,118,2,1.5,3.5,8.84,0,1,hockey,0,1
+506,Sybille Tidbald,F,865-413-4647,Tennessee,333,99,5,3.5,5,9.22,0,0,hockey,1,1
+507,Sinclair Buckland,M,502-271-3420,Kentucky,331,82,1,3,1,7.32,0,1,none,1,0
+508,Titos Breston,M,954-348-0436,Florida,330,100,2,1.5,4.5,7.6,1,1,football,0,1
+509,Griz Jime,M,407-938-1535,Florida,281,116,4,2.5,4.5,6.33,0,1,basketball,1,1
+510,Nixie Hoggin,F,315-297-8690,New York,316,98,2,1,1,7.72,0,0,none,0,0
+511,Mick Grant,M,770-225-2793,Georgia,288,108,1,1,4,7.08,1,1,hockey,1,0
+512,Rikki Carstairs,M,408-218-4423,California,264,85,4,2.5,2,9.55,0,0,none,0,0
+513,Verene Joanaud,F,504-478-9299,Louisiana,303,106,2,4,1,7.84,0,1,none,0,0
+514,Meridith Dumini,F,301-553-3228,Maryland,292,119,4,1.5,3,6.48,0,0,hockey,0,0
+515,Latrena Bourchier,F,832-705-2973,Texas,288,82,1,3.5,2,8.21,1,1,football,0,0
+516,Dre Jedras,F,516-144-1517,New York,325,90,1,3,3.5,7.98,0,0,none,1,1
+517,Pietra Shorrock,F,352-176-5429,Florida,325,99,5,5,4.5,8.65,0,0,hockey,1,1
+518,Laverne Hayter,F,202-661-3467,District of Columbia,264,89,2,2.5,5,6.75,1,0,none,0,0
+519,Elbertine Braxton,F,918-432-4700,Oklahoma,296,106,4,5,3,6.88,0,0,none,1,1
+520,Cloe Purnell,F,859-760-1163,Kentucky,277,80,3,1.5,3,5.87,1,1,hockey,1,0
+521,Brit Rajchert,M,949-292-4186,California,296,117,2,1.5,4,5.96,0,1,basketball,0,0
+522,Jed Ewells,M,650-825-7345,California,285,102,1,2.5,2.5,6.45,0,0,basketball,1,0
+523,Vivyan Ardern,F,360-113-7915,Washington,281,85,5,1,2,6.32,0,0,football,1,0
+524,Cornelle Thomason,F,571-163-4999,Virginia,311,82,5,3.5,4.5,9.78,1,1,basketball,1,0
+525,Lauree Tinklin,F,334-524-4321,Alabama,334,82,2,3,1.5,8.96,0,0,basketball,1,0
+526,Barnabe Subhan,M,813-489-8256,Florida,335,97,1,2.5,2.5,9.27,0,1,none,0,0
+527,Templeton MacSkeaghan,M,720-615-3012,Colorado,287,106,2,3.5,1.5,6.77,0,1,football,0,1
+528,Alison Sustin,F,949-999-8783,California,337,83,4,2.5,1.5,9.4,1,1,football,0,1
+529,Gleda Sheryne,F,806-936-7417,Texas,318,83,1,2,4,8.49,0,0,none,0,1
+530,Leta Gores,F,423-767-7042,Tennessee,288,89,2,5,3,5.99,0,1,football,0,0
+531,Shirlee Danser,F,336-616-5713,North Carolina,271,101,5,2.5,4.5,8.56,0,0,hockey,0,0
+532,Kliment Bawles,M,231-114-4724,Michigan,291,108,1,1,3.5,5.81,1,0,none,1,0
+533,Gardie Sollom,M,269-676-6457,Michigan,293,93,4,3.5,2.5,6.03,1,1,none,1,0
+534,Rhianon Whimpenny,F,605-707-5955,South Dakota,288,83,1,4,2,7.01,1,1,none,1,0
+535,Maisey Haxbie,F,843-455-6425,South Carolina,283,116,2,3,2.5,8.63,1,0,none,0,0
+536,Keslie Graddon,F,505-720-9612,New Mexico,303,89,3,1,3.5,6.23,0,0,football,0,0
+537,Sileas Gadie,F,720-404-4571,Colorado,311,112,2,2.5,4,7.85,1,1,basketball,1,0
+538,Beverie Fowells,F,202-114-2522,District of Columbia,322,103,3,1,3,8.65,0,1,basketball,1,1
+539,Petronilla Water,F,202-610-6825,District of Columbia,315,81,2,1,1.5,7.14,1,1,football,1,0
+540,Letisha Lintin,F,214-795-4627,Texas,327,102,1,5,1.5,8.75,0,0,hockey,1,0
+541,Osmond Delaprelle,M,281-224-5802,Texas,308,95,5,4,1,8.81,0,1,basketball,0,0
+542,Gauthier Pickthall,M,718-237-7270,New York,324,95,4,5,1.5,7.68,0,1,basketball,1,0
+543,Tanny Shorthill,M,202-213-6989,District of Columbia,336,84,1,4.5,4,9.47,0,1,none,0,1
+544,Marquita Craisford,F,314-326-4924,Missouri,330,104,4,1.5,4,7.76,0,0,basketball,1,0
+545,Lissa Derby,F,605-159-8399,South Dakota,307,80,2,2,1,9.59,0,0,basketball,1,0
+546,Edmon Riddler,M,203-689-6644,Connecticut,287,95,1,3,4,5.87,1,1,football,1,0
+547,Kirstin Simonel,F,916-817-5168,California,288,88,3,4.5,2.5,9.34,0,0,none,1,1
+548,Gilly Philson,F,614-623-7593,Ohio,322,110,1,5,2.5,5.66,0,1,none,1,1
+549,Carson Balstone,M,714-133-2018,California,296,99,5,2,3.5,9.65,1,0,football,1,0
+550,Poul Garnul,M,214-951-4995,Texas,263,94,2,1,3.5,7.85,0,1,basketball,1,0
+551,Cameron Kaufman,M,612-735-4699,Minnesota,302,104,4,3,2,7.23,1,0,basketball,1,0
+552,Clementine Mityukov,F,415-402-2315,California,263,89,3,3.5,5,8.65,0,1,none,1,1
+553,Florry Genese,F,720-917-3939,Colorado,299,86,2,4,4.5,6.85,1,0,football,1,1
+554,Bone Glowacki,M,816-731-0502,Missouri,288,91,2,2.5,1.5,6.35,0,1,hockey,1,0
+555,Aimee Kleeborn,F,406-327-7248,Montana,325,102,5,1,3.5,9.4,0,0,basketball,1,0
+556,Nicola Dufoure,F,713-726-2511,Texas,315,114,2,2.5,3.5,8.49,1,1,football,0,1
+557,Jonas Creffield,M,859-678-3105,Kentucky,307,96,5,1.5,4.5,6.66,0,1,football,0,0
+558,Bertram Durkin,M,801-606-2890,Utah,316,107,1,4,4.5,8.34,0,1,hockey,0,1
+559,Cullen De Ferraris,M,404-741-3787,Georgia,296,88,4,1.5,4,7.59,1,1,football,0,0
+560,Claudianus Spadoni,M,305-363-3357,Florida,308,113,3,2,5,6.45,1,0,basketball,0,0
+561,Rebecca Petru,F,415-491-7613,California,282,80,5,1,1.5,6.58,1,1,none,0,0
+562,Hastings Robotham,M,612-183-9000,Minnesota,306,95,2,1,1,7.12,0,1,football,1,0
+563,Roxana Mitkov,F,773-425-8575,Illinois,307,104,1,4.5,3,5.99,0,0,none,1,1
+564,Amity Holehouse,F,352-421-9052,Florida,308,85,4,3.5,3,5.88,1,0,basketball,1,0
+565,Hester Arcase,F,763-223-1257,Minnesota,279,89,1,4.5,3.5,6.75,0,0,basketball,1,0
+566,Melony Jouannot,F,314-948-2894,Missouri,339,80,4,3,1,7.75,1,0,football,0,0
+567,Lucian Fray,M,713-472-1064,Texas,333,118,5,1.5,2,6.12,1,0,none,1,0
+568,Odey Gayton,M,336-323-9146,North Carolina,282,85,1,3.5,5,8.59,1,0,none,0,1
+569,Carlynn Farnall,F,912-889-0013,Georgia,294,99,2,1.5,4,5.93,0,1,hockey,0,0
+570,Lanie Kopps,M,302-467-9822,Delaware,266,92,5,4.5,1.5,9.01,0,1,basketball,0,1
+571,Clemens Schoenrock,M,716-726-8149,New York,334,105,2,3,5,9.57,1,1,football,1,1
+572,Nicolina Popping,F,678-993-1604,Georgia,287,111,1,4.5,1.5,7.52,0,1,football,0,1
+573,Timoteo Clarson,M,812-660-1204,Indiana,290,82,4,4,4.5,8.36,1,0,hockey,0,1
+574,Ellynn Brigman,F,616-158-3481,Michigan,283,117,3,5,5,8.99,1,1,none,1,1
+575,Teodor Breeton,M,859-321-0515,Kentucky,325,110,2,1,1,9.63,1,0,basketball,0,0
+576,Olivier Stracey,M,915-372-8567,Texas,305,106,1,1.5,1,7.44,0,0,hockey,0,0
+577,Cathrine Espinel,F,619-772-0260,California,304,109,2,4.5,5,5.99,1,1,football,0,1
+578,Corena Cardon,F,213-883-3365,California,284,93,2,5,3,8.45,0,0,hockey,1,0
+579,Shayla Nobriga,F,801-743-6792,Utah,321,86,5,2.5,2.5,7.27,0,0,football,1,0
+580,Donovan Collen,M,432-807-8823,Texas,262,88,5,5,4.5,7.69,1,1,none,0,0
+581,Cullan Van Rembrandt,M,661-839-9996,California,318,120,5,5,2,9.53,1,1,none,0,1
+582,Codee Glitherow,F,404-181-9150,Georgia,304,93,3,2.5,4,5.26,1,0,hockey,0,0
+583,Wye Torrisi,M,402-353-2370,Nebraska,316,99,2,4.5,3.5,9.77,0,0,football,1,0
+584,Eydie Quinet,F,210-369-2417,Texas,300,92,1,4.5,3.5,5.9,1,0,none,0,0
+585,Lotta Cranney,F,517-288-3761,Michigan,310,101,4,2.5,3,7.19,0,1,none,0,0
+586,Inglebert Sausman,M,203-996-5397,Connecticut,274,86,4,4.5,1.5,6.8,1,1,basketball,1,1
+587,Rafaello Ticksall,M,602-779-9043,Arizona,292,114,2,4.5,3,6.88,1,1,basketball,1,1
+588,Jarid Temple,M,954-181-7463,Florida,293,115,5,5,2,6.42,0,0,none,1,0
+589,Elisa Wedmore,F,804-202-3332,Virginia,311,94,1,2.5,4.5,9.53,0,0,hockey,0,1
+590,Elijah Gunthorp,M,305-370-2639,Florida,292,107,2,4,1.5,6.38,1,0,basketball,1,0
+591,Modesta Morena,F,702-800-3162,Nevada,270,105,2,5,4,7,0,0,football,0,1
+592,Gretal Kaplin,F,574-997-8271,Indiana,317,87,5,2,2,7.17,0,0,football,1,0
+593,Dorine Byard,F,704-641-3674,North Carolina,327,106,5,3,3.5,8.67,0,0,none,1,0
+594,Massimiliano Dunnan,M,415-745-7382,California,288,102,5,2.5,1,6.99,1,1,none,1,0
+595,Torin Regis,M,609-113-3255,New Jersey,282,84,4,2.5,3.5,7.56,1,1,football,1,0
+596,Erma Pennazzi,F,202-241-6630,Virginia,336,89,2,1,1,7.77,1,1,basketball,1,0
+597,Egon Bugdall,M,571-606-8300,Virginia,283,107,4,1,3.5,8.26,1,1,football,0,0
+598,Orion Puttock,M,330-280-9158,Ohio,265,93,3,2.5,1,4.88,1,1,basketball,1,0
+599,Melina Ferrario,F,408-613-5023,California,299,106,4,1,1,6.22,1,0,none,1,0
+600,Sayre Vatini,M,754-993-7128,Florida,300,97,1,3,1.5,6.31,1,0,none,1,0
+601,Fifine Spurryer,F,304-283-7190,West Virginia,301,100,2,3.5,1,6.4,1,0,basketball,0,0
+602,Katine Shorey,F,919-508-2005,North Carolina,299,108,3,4,4.5,8.96,1,1,none,1,1
+603,Homerus Molian,M,304-624-7433,West Virginia,283,83,5,5,1,5.7,0,1,hockey,0,0
+604,Dirk Chark,M,410-587-1819,Maryland,287,99,3,3.5,4.5,5.55,1,1,basketball,0,0
+605,Alair Rosser,M,602-767-8190,Arizona,288,94,2,5,4.5,8.55,1,0,none,1,1
+606,Marcie Ambrogioni,F,309-261-3016,Illinois,301,100,2,3.5,3.5,9.16,0,0,basketball,1,0
+607,Chrystal Andree,F,602-482-7599,Arizona,291,96,2,2,4.5,5.98,1,1,football,1,0
+608,Elbertine Dary,F,202-350-8931,District of Columbia,312,100,1,4,5,9.16,0,1,hockey,0,1
+609,Dorotea Arrigo,F,352-609-3483,Florida,339,105,4,3,2.5,8.81,0,0,none,1,0
+610,Edithe Headingham,F,757-813-5256,Virginia,283,106,1,3.5,2,6.15,1,0,basketball,0,0
+611,Carolyne Flintiff,F,713-127-2261,Texas,309,101,4,1,3,5.88,0,0,none,1,0
+612,Carlyle Dilland,M,916-488-1439,California,283,111,4,4.5,4.5,5.35,1,1,none,0,1
+613,Frederich Wones,M,217-346-0557,Illinois,314,119,1,3,5,8.93,0,0,football,0,1
+614,Rog McQuaid,M,505-347-8290,New Mexico,303,95,1,5,3.5,7.5,1,1,football,0,0
+615,Lucinda Parrot,F,405-613-4481,Oklahoma,299,118,5,2,2,5.99,1,0,basketball,1,0
+616,Wit Madeley,M,415-975-9141,California,316,104,2,1.5,1,7.84,0,0,basketball,1,0
+617,Kellby Ilsley,M,267-145-1900,Pennsylvania,322,118,3,2,4,7.37,0,0,none,1,1
+618,Ezra Eddison,M,480-561-4084,Arizona,320,109,2,5,2,8.54,1,1,none,1,0
+619,Shellie Coxen,F,850-264-9486,Florida,319,111,5,1.5,2,8,1,1,basketball,1,0
+620,Artair Ciotti,M,408-416-3847,California,311,80,5,3,2.5,7.18,1,1,basketball,1,0
+621,Bren Heap,F,754-487-7315,Florida,284,82,2,2.5,3,5.37,1,1,none,0,0
+622,Niccolo Brugsma,M,281-866-2055,Texas,287,87,5,2.5,1,9.34,1,1,none,1,0
+623,Delmore Chantree,M,763-881-2556,Minnesota,280,106,2,2,1.5,9.33,1,1,basketball,0,0
+624,Dickie Braunfeld,M,682-250-0214,Texas,290,88,3,5,4.5,8.92,0,1,hockey,1,1
+625,Milissent Shurmore,F,434-377-9741,Virginia,269,84,1,3.5,1.5,5.88,0,0,hockey,1,0
+626,Estrellita Fiddy,F,323-928-5978,California,315,89,4,3,3,7.21,0,0,none,1,0
+627,Nata Halwill,F,813-660-0366,Florida,317,109,4,4.5,1,8.33,0,1,none,0,1
+628,Kissee Pude,F,212-215-7813,New York,283,106,1,3.5,2.5,6.76,0,0,hockey,1,0
+629,Ninette Trenholme,F,404-151-2415,Georgia,290,115,2,2,3.5,7.44,1,1,football,1,1
+630,Trent Tesseyman,M,513-584-8007,Ohio,293,87,1,4.5,4.5,7.99,0,0,football,1,1
+631,Althea Warren,F,979-471-3839,Texas,292,102,5,4,3,6.84,1,1,basketball,1,1
+632,Berti Stockley,M,801-547-8371,Utah,302,120,4,1,3,8.21,0,0,hockey,0,0
+633,Camella Farren,F,951-553-3113,California,300,90,1,2,5,8.32,0,0,hockey,1,0
+634,Gregoire Banasik,M,916-712-1613,California,295,98,5,1,2.5,9.52,1,1,football,1,0
+635,Webb Carlucci,M,305-306-9334,Florida,269,91,1,2,5,6.94,1,0,basketball,1,0
+636,Tann Bickford,M,713-830-9610,Texas,293,109,2,4,1,9.36,1,1,hockey,0,0
+637,Symon Cleynman,M,724-900-4326,Pennsylvania,264,109,5,3.5,3,7.56,0,1,none,1,0
+638,Constantia Rheaume,F,714-907-3077,California,292,93,4,1,2.5,9.55,1,0,none,1,0
+639,Jacquette Bracer,F,405-598-9537,Oklahoma,316,87,2,1,1.5,8.21,0,0,basketball,1,0
+640,Palm Dunne,M,212-212-2838,New York,295,92,3,2.5,1.5,8.15,0,0,none,0,0
+641,Phoebe Balmforth,F,214-866-1276,Texas,305,92,1,3,2.5,9.59,1,1,none,1,0
+642,Marilee Gravett,F,304-689-3244,West Virginia,294,89,3,1.5,4,7.12,0,1,none,1,1
+643,Milty Dwerryhouse,M,831-526-8049,California,331,109,5,2,1,8.61,1,0,basketball,1,0
+644,Sallee Garrud,F,213-145-3584,California,288,120,2,4,1,8.02,0,0,none,0,0
+645,Anni Minster,F,816-400-7253,Missouri,289,81,3,2,1,9.1,0,0,none,0,0
+646,Dedie Toun,F,415-742-1974,California,311,82,2,1,1.5,8,0,1,football,1,0
+647,Casi Avery,F,415-673-8557,California,296,92,3,2.5,4.5,7.82,0,1,none,0,1
+648,Karlie Pahler,F,912-572-7761,Georgia,284,90,1,1.5,4,9.22,1,0,football,1,1
+649,Clare De Malchar,M,661-297-3560,California,293,99,2,1,3.5,8,0,1,hockey,1,0
+650,Shirley Asgodby,F,626-275-6809,California,299,110,4,4,1.5,7.11,1,0,basketball,0,0
+651,Boothe Hourston,M,818-531-4807,California,299,106,5,4.5,3.5,6.15,1,1,none,1,1
+652,Ardelis Beachamp,F,210-701-6405,Texas,269,98,2,2.5,4.5,8.59,0,0,none,1,0
+653,Keri Neames,F,806-138-2434,Texas,333,80,3,2,5,7.33,0,0,football,1,1
+654,Jasper Cherrington,M,562-434-4917,California,280,111,1,3,3,7.54,1,1,basketball,0,1
+655,Maryanna Stonhouse,F,314-875-2828,Missouri,332,103,3,5,2.5,9.53,0,1,hockey,1,1
+656,Concettina Cullinan,F,952-650-9955,Minnesota,295,118,4,4.5,5,7.26,1,1,basketball,0,1
+657,Artemis Djokic,M,415-895-3791,California,280,95,4,4.5,4,7.23,1,1,basketball,1,1
+658,Zachariah Houselee,M,813-786-7263,Florida,287,104,2,1,4,6.51,0,0,basketball,0,0
+659,Winne Winyard,F,254-460-7165,Texas,317,80,5,2.5,5,7.81,0,1,basketball,1,0
+660,Joy Gheraldi,F,405-644-8272,Oklahoma,307,105,4,4.5,3.5,6.45,0,0,basketball,1,0
+661,Emelyne Palay,F,619-947-3860,California,316,92,1,1,2.5,8.18,1,1,none,0,0
+662,Joey Nisius,F,419-850-2057,Ohio,314,106,3,4,2,8.2,0,0,hockey,1,1
+663,Cybil Fuge,F,202-717-1758,District of Columbia,303,84,4,3,1,5.96,1,0,football,1,0
+664,Kurt Chapleo,M,404-653-6285,Georgia,300,82,1,1,1.5,5.22,1,1,football,0,0
+665,Shara Philcock,F,913-705-0046,Kansas,330,104,1,1.5,3,7.33,1,0,football,0,0
+666,Ruthie Tattershall,F,813-336-5714,Florida,320,110,5,3.5,1.5,7,1,1,none,1,0
+667,Gorden Jakolevitch,M,202-619-7166,District of Columbia,328,114,2,2.5,4.5,7.21,0,0,none,1,1
+668,Vidovic Dust,M,301-970-0677,Maryland,313,106,1,4,2,5.61,0,1,football,1,0
+669,Martyn Shailer,M,909-563-7221,California,316,120,5,2.5,1,5.64,1,0,basketball,0,0
+670,Cecily Gutteridge,F,646-271-2980,New York,303,85,3,2,2.5,6.04,0,1,none,0,0
+671,Arnoldo Fidler,M,918-183-0754,Oklahoma,334,108,2,1.5,2.5,8.24,1,1,football,0,0
+672,Rick Vyvyan,M,214-305-3446,Texas,304,110,3,1,4,6.48,1,1,none,1,0
+673,Janeta Comley,F,907-982-3679,Alaska,331,103,3,5,3,8.96,1,1,hockey,1,1
+674,Ara Wooland,F,361-496-1390,Texas,323,100,4,1.5,3,9.68,0,0,football,0,1
+675,Olin Withrington,M,971-217-2366,Oregon,323,86,2,5,2,9.53,0,1,none,1,0
+676,Allyn Raubenheim,M,209-815-6084,California,283,82,4,5,2,6.18,1,0,none,1,1
+677,Terry Doveston,F,937-494-3666,Ohio,293,108,3,2.5,2.5,6.19,0,1,hockey,1,0
+678,Clerkclaude Burdett,M,903-887-7042,Texas,305,92,2,5,5,6.58,0,0,hockey,0,1
+679,Issy Ashlin,F,804-132-8558,Virginia,330,111,5,3,5,6.88,1,0,hockey,1,1
+680,Dinny Rebichon,F,405-248-4396,Oklahoma,333,100,4,3,4.5,9.65,0,0,none,1,1
+681,Gayelord Storks,M,859-193-1482,Kentucky,291,104,5,2.5,5,7.85,0,1,football,0,0
+682,Agatha Pointing,F,313-168-9650,Michigan,304,89,2,3,2,6.25,0,1,hockey,0,0
+683,Hurleigh MacRannell,M,616-604-4780,Michigan,328,120,3,2.5,3,9.04,1,1,none,1,1
+684,Puff Rudolfer,M,952-880-8399,Minnesota,307,92,5,3,3,8.15,1,1,basketball,0,0
+685,Benedikta Warde,F,203-436-9185,Connecticut,309,111,2,1,1.5,9.5,1,0,football,1,0
+686,Dyann Maryet,F,602-426-8077,Arizona,292,102,4,5,3,6.15,1,0,none,0,0
+687,Emalee Snyder,F,304-380-2884,West Virginia,288,99,2,5,2,8.45,1,0,football,0,1
+688,Jobina Casse,F,530-392-8310,California,290,115,3,5,1.5,8,0,1,hockey,1,1
+689,Esteban Sach,M,423-416-8908,Tennessee,329,113,3,1,3,9.4,1,0,football,0,0
+690,Wolfgang Bartrum,M,806-946-0041,Texas,287,97,3,2.5,4.5,7.03,0,1,basketball,0,0
+691,Mercy Coneron,F,361-866-3623,Texas,294,102,4,4,1,7.52,0,0,basketball,1,0
+692,Barret Wass,M,713-897-2545,Texas,297,107,2,4,3,8.25,1,1,none,1,0
+693,Rupert Stanley,M,219-269-3009,Indiana,269,102,2,3.5,3,6.26,1,1,none,1,0
+694,Nickolas Huffadine,M,813-854-6950,Florida,318,110,5,2.5,4,9.55,1,1,basketball,1,0
+695,Lefty Matuska,M,502-825-0351,Kentucky,304,85,5,5,5,8.41,0,0,none,0,0
+696,Jerrilee Lawlings,F,806-714-2520,Texas,319,97,3,1,2,8.22,0,0,basketball,0,0
+697,Carina Bette,F,432-402-9825,Texas,324,113,2,1,2.5,8.94,0,1,none,0,0
+698,Adamo Eskrigge,M,312-643-1399,Illinois,293,87,2,4.5,4,8.33,0,1,basketball,1,1
+699,Mayne Leigh,M,216-405-3442,Ohio,290,109,1,2,4.5,8.06,1,1,hockey,0,0
+700,Herculie Tilbury,M,716-313-7268,New York,313,82,4,1.5,1.5,6.27,0,0,none,0,0
+701,Cly Sondland,M,315-872-3493,New York,304,85,4,2,4,9.06,0,0,none,1,0
+702,Eustacia Strodder,F,573-856-1153,Missouri,287,103,1,3.5,2,9.35,1,1,basketball,0,0
+703,Giffy Skocroft,M,202-756-9937,District of Columbia,293,112,2,2.5,4,9.12,1,1,basketball,0,1
+704,Tallulah MacDunleavy,F,214-475-9391,Texas,315,86,2,4.5,1.5,7.85,0,0,hockey,1,1
+705,Pamelina Pibworth,F,337-394-9133,Louisiana,295,87,5,3,4,7.86,1,0,hockey,1,0
+706,Inigo Hearl,M,202-483-2658,District of Columbia,281,111,3,1.5,2,6.18,1,0,football,1,0
+707,Chicky Dorey,M,225-280-5474,Louisiana,287,86,3,4.5,2,6.19,1,1,football,0,0
+708,Halette Ramelet,F,808-935-3458,Hawaii,326,95,1,4,3,8.3,1,1,none,0,1
+709,Shandee Geering,F,918-379-2130,Oklahoma,332,103,4,1.5,5,8.54,0,1,hockey,1,0
+710,Pegeen Antonat,F,434-134-3163,Virginia,306,111,5,1.5,3.5,9.28,0,0,none,1,0
+711,Engelbert Dafydd,M,814-759-7806,Pennsylvania,284,104,2,4,3,9.22,0,1,none,1,1
+712,Thedric Pidgen,M,213-962-5218,California,287,96,3,1.5,1,8.11,1,1,none,0,0
+713,Raynard Gentle,M,716-661-2044,New York,304,92,1,2,1,6.12,1,1,none,1,0
+714,Delilah Wallbutton,F,864-958-3564,South Carolina,311,120,5,1,1,5.39,1,0,hockey,0,0
+715,Pembroke Wooddisse,M,941-697-4147,Florida,339,90,2,3.5,4,9.47,1,1,basketball,0,0
+716,Elliot Tumioto,M,513-571-7880,Ohio,305,104,3,3,2,9.49,0,0,none,0,0
+717,Winn Boyse,M,513-378-0336,Ohio,314,110,4,4.5,2.5,5.34,1,1,football,1,0
+718,Rolfe Westfield,M,717-665-5026,Pennsylvania,296,91,1,3,1,4.68,1,1,hockey,0,0
+719,Rachael Pimme,F,330-293-0716,Ohio,323,103,2,2.5,1.5,9.73,1,0,hockey,1,0
+720,Kaleb Gurton,M,360-497-9226,Washington,328,120,5,2.5,3,9.01,1,1,none,0,0
+721,Alonzo Linkleter,M,203-898-3209,Connecticut,325,113,3,5,3,7.46,0,1,football,0,1
+722,Sergio Hufton,M,330-362-7730,Ohio,303,106,2,2,2,5.45,1,0,football,0,0
+723,Lorrie Waistell,F,402-336-0744,Nebraska,291,109,2,2.5,1.5,7.45,1,0,none,1,0
+724,Cathe Jewiss,F,630-399-6850,Illinois,297,97,1,5,2,7.54,0,1,none,1,0
+725,Gawain Denzilow,M,860-841-4301,Connecticut,300,89,4,4.5,3.5,9.47,1,0,basketball,1,1
+726,Orin Goodger,M,772-957-9090,Florida,301,116,2,4.5,2,5.38,0,1,hockey,1,1
+727,Aldus Griss,M,813-205-0784,Florida,288,84,2,5,4.5,6.59,1,1,football,0,1
+728,Reinald Marlowe,M,501-335-8389,Arkansas,328,105,5,3.5,2.5,9.73,1,1,none,0,1
+729,Berri Batterbee,F,806-863-1388,Texas,321,92,3,1,3.5,8.58,1,0,none,1,0
+730,Benedetta Juniper,F,336-137-7450,North Carolina,322,96,2,2,3.5,8.31,0,1,none,0,0
+731,Amata Tivnan,F,951-302-5416,California,299,104,4,2,1,6.22,1,0,basketball,1,0
+732,Nat Streets,M,304-335-4697,West Virginia,321,90,1,5,4.5,5.84,1,0,none,1,1
+733,Lucien Shiril,M,269-612-3608,Michigan,305,83,4,4.5,1,5.77,1,1,football,1,1
+734,Marshal Fellos,M,520-615-9328,Arizona,317,103,1,3,3.5,9.73,0,0,none,1,0
+735,Annetta Dightham,F,915-891-3776,Texas,264,91,4,5,2,6.45,1,1,basketball,1,0
+736,Keefe Austing,M,937-507-3718,Ohio,311,96,5,2,1,6.55,0,0,football,0,0
+737,Eran Gorusso,F,972-464-8978,Texas,336,89,2,3.5,4,6.88,0,0,hockey,0,1
+738,Viv Longley,F,407-913-2239,Florida,315,112,5,1,4.5,9.41,1,1,hockey,0,0
+739,Matty Glandfield,F,310-170-7560,California,319,85,3,4,4,7.23,1,1,basketball,1,1
+740,Melloney Scammell,F,336-626-5356,North Carolina,270,101,1,2,4,4.69,0,0,football,1,0
+741,Colman McIlwain,M,352-298-1825,Florida,298,99,2,5,2.5,6.58,0,1,none,1,0
+742,Shae MacCracken,F,405-628-9634,Oklahoma,268,95,2,1.5,3.5,6.26,1,1,basketball,1,0
+743,Katalin Kinig,F,202-431-8972,District of Columbia,328,115,4,4.5,2.5,6.91,0,1,none,0,1
+744,Pier Melior,F,612-192-3573,Minnesota,314,92,1,3.5,2.5,8.58,1,0,none,0,0
+745,Germain Lowes,M,917-870-3372,New York,337,86,3,1.5,3,8.31,1,0,basketball,1,0
+746,Niki McFie,M,352-280-8506,Florida,327,115,2,4.5,2.5,9.73,0,1,none,1,0
+747,Elvina Frude,F,571-213-8164,Virginia,273,83,5,3,3.5,4.89,0,0,none,1,0
+748,Corena Eslinger,F,503-791-0563,Oregon,304,111,1,2.5,2,6.49,0,0,none,1,0
+749,Henry Medley,M,304-205-1987,West Virginia,330,98,1,3,2,7.33,0,0,football,0,0
+750,Krystyna Stevani,F,234-679-6092,Ohio,262,87,2,4.5,1.5,5.49,0,1,none,1,0
+751,Mervin Dorney,M,501-716-9712,Arkansas,311,115,3,4.5,5,7.46,0,1,none,0,1
+752,Batsheva Wansbury,F,240-748-6086,Maryland,305,95,1,1.5,4.5,9.82,0,0,hockey,0,1
+753,Vivianne Waddy,F,323-372-9649,California,300,87,1,4.5,4,8.51,0,1,none,0,1
+754,Ravid Mochar,M,443-216-7688,Maryland,266,103,4,2,3.5,6.58,0,1,basketball,0,0
+755,Kienan Redmain,M,505-671-7577,New Mexico,293,83,2,4.5,2.5,8.52,1,0,none,1,0
+756,Earle Craze,M,484-249-7884,Pennsylvania,315,87,2,3.5,3.5,7.66,1,0,hockey,1,1
+757,Lolita Deex,F,253-274-8489,Washington,264,107,5,3.5,1,7.45,0,0,none,0,0
+758,Tildi Raggitt,F,504-730-2370,Louisiana,265,108,2,5,4.5,5.68,1,1,basketball,1,0
+759,Fidole Reavell,M,952-581-2216,Minnesota,310,99,2,4,2,5.89,0,1,none,0,0
+760,Noelani Hillhouse,F,609-751-3222,New Jersey,268,115,3,5,4.5,5.67,1,0,none,0,1
+761,Eleanora Dearle-Palser,F,608-225-8051,Wisconsin,307,106,4,1,1,9.09,1,1,hockey,1,0
+762,Cherise Baroux,F,713-571-5627,Texas,318,113,2,2,1,9.28,1,1,basketball,0,0
+763,Heath Wilbor,M,754-722-2587,Florida,300,99,4,1.5,5,5.37,1,0,basketball,1,0
+764,Collin Theunissen,M,651-512-6322,Minnesota,265,99,3,4.5,5,5.88,1,1,hockey,0,0
+765,Rob Everal,M,810-879-2838,Michigan,284,95,1,1.5,4.5,5.68,0,1,none,0,0
+766,Pincas Jenoure,M,661-780-1372,California,322,93,1,1.5,1,7.95,0,1,basketball,0,0
+767,Burnaby Bough,M,318-109-0303,Louisiana,299,94,4,2,1,6.94,0,0,football,1,0
+768,Cchaddie Atchly,M,216-208-7043,Ohio,286,85,5,3.5,4.5,6.77,1,0,football,1,0
+769,Crin Osgerby,F,309-781-0774,Illinois,330,112,1,2.5,1,9.64,1,0,football,0,0
+770,Salomi Cranston,F,256-565-9092,Alabama,320,82,2,4,3.5,9.08,1,1,none,1,1
+771,Wittie Bringloe,M,212-671-4118,New York,282,84,2,3,2,6.18,0,1,none,0,0
+772,Hana Beckham,F,718-696-6972,New York,268,112,3,3,5,5.68,0,0,basketball,1,0
+773,Nedi Featherstonehaugh,F,210-807-7833,Texas,266,92,5,3.5,3,5.69,1,1,basketball,0,0
+774,Corene Morrieson,F,407-300-9147,Florida,323,106,5,1,2.5,5.69,1,0,hockey,0,0
+775,Lane Baigent,F,507-309-2790,Minnesota,323,84,1,3,1.5,8.79,0,0,none,0,0
+776,Rory Minthorpe,F,804-614-1083,Virginia,333,84,2,5,1.5,7.96,1,0,football,1,1
+777,Bell Couling,F,212-394-9379,New York,318,80,4,4.5,3.5,8.21,1,1,basketball,1,1
+778,Kiley Spellworth,M,806-397-3112,Texas,290,84,1,1,2.5,6.54,0,1,none,1,0
+779,Daryn Bonfield,F,303-399-7938,Colorado,275,109,2,1,3,5.88,1,0,football,0,0
+780,Alessandro Bassford,M,317-888-9255,Indiana,297,88,2,2,2,5.79,0,0,basketball,1,0
+781,Gerrie Ianniello,M,225-244-9100,Louisiana,316,82,2,3.5,2.5,7.66,0,0,none,0,0
+782,Woodrow Eighteen,M,321-470-9553,Florida,282,101,1,2,2.5,6.49,1,1,none,1,0
+783,Sisile Morgue,F,415-709-8888,California,277,89,3,3.5,1,6.95,1,0,hockey,1,0
+784,Homere Bolin,M,334-337-7815,Alabama,261,118,2,3,1.5,6.88,0,1,hockey,1,0
+785,Lauri Berends,F,614-692-0187,Ohio,269,101,4,5,5,5.49,0,0,football,1,1
+786,Rebe Jahnke,F,912-131-7035,Georgia,291,111,5,1,2.5,6.58,1,1,none,1,0
+787,Peyton Jeppe,M,904-252-8403,Florida,261,117,5,4.5,5,7.62,0,0,none,0,1
+788,Cassi Wreight,F,267-672-3245,Pennsylvania,276,99,2,1.5,2.5,7.12,1,1,hockey,0,0
+789,Lisabeth Emanuelli,F,713-208-3400,Texas,262,116,5,4.5,2,8.09,1,1,none,1,1
+790,Hamlen Augie,M,732-808-4253,New Jersey,300,87,5,3,4,7,1,1,hockey,1,0
+791,Mia Ridgers,F,202-850-4653,District of Columbia,276,97,3,4,2,8.66,1,1,none,0,1
+792,Caprice Godart,F,763-542-4793,Minnesota,276,106,2,2.5,4.5,5.62,0,0,football,0,0
+793,Wilhelmina Paten,F,615-418-3975,Tennessee,267,97,5,1,3.5,9.36,1,1,hockey,0,0
+794,Jemie Casper,F,315-888-5680,New York,294,117,5,5,4.5,6.52,1,0,football,0,1
+795,Codi Janman,M,901-170-2229,Tennessee,267,89,1,2,1.5,6.45,0,1,none,1,0
+796,Imelda Dengate,F,559-119-5263,California,280,99,4,2.5,1,6.84,1,0,football,0,0
+797,Merola Corhard,F,816-286-3182,Missouri,278,92,2,3,4,6.99,0,0,football,1,0
+798,Trish Housegoe,F,702-595-5230,California,293,89,5,2,2,6.35,0,0,football,1,0
+799,Kain Stathers,M,219-918-6863,Indiana,260,119,1,4,2.5,6.58,1,1,hockey,0,0
+800,Darya Northidge,F,678-532-9282,Georgia,280,120,4,3,4,7.56,0,1,none,0,0
+801,Jenda Osborn,F,772-103-5120,Florida,274,80,2,3.5,1,7.62,1,1,football,0,0
+802,Gianni Headon,M,410-179-6898,Maryland,277,102,3,1.5,2.5,5.9,0,0,hockey,1,0
+803,Tildi McCulley,F,202-166-9143,District of Columbia,299,118,2,3.5,2,6.52,1,1,basketball,0,0
+804,Kalil Boon,M,386-509-7849,Florida,283,112,5,2,1,8.65,1,0,hockey,0,0
+805,Emmey Brimfield,F,210-532-4873,Texas,298,117,1,2,4.5,9.45,0,1,none,1,1
+806,Thomasine Swaton,F,404-450-5581,Georgia,290,102,4,3,1.5,8.26,1,0,hockey,0,0
+807,Lou Wickwar,M,206-637-8823,Washington,297,83,2,2.5,2,7.63,1,1,none,0,0
+808,Jamison Goadbie,M,614-889-6145,Ohio,269,97,5,1.5,2,9.22,1,0,football,0,0
+809,Daryle Top,M,941-165-0796,Florida,283,115,1,5,2.5,8.35,0,1,football,1,1
+810,Cinda Kindon,F,609-551-5726,New Jersey,263,92,4,4,3,7.33,0,0,basketball,1,0
+811,Annadiane Fieldstone,F,816-193-4913,Missouri,295,94,1,2.5,3,7.55,1,1,basketball,0,0
+812,Fidel Ingree,M,484-921-8406,Pennsylvania,292,89,4,3.5,5,8.23,0,0,football,1,0
+813,Baily Legges,M,281-567-5454,Texas,292,110,2,1.5,2,6.22,0,1,none,1,0
+814,Patsy Covendon,M,626-241-0880,California,266,112,3,2.5,4.5,6.01,0,1,none,0,1
+815,Guss Warham,M,781-103-3999,Massachusetts,274,120,2,3.5,3.5,5.99,1,1,hockey,0,0
+816,Deedee Bantham,F,903-388-7607,Texas,299,90,5,2.5,4.5,5.34,1,1,basketball,1,1
+817,Sergeant Tremmil,M,801-467-0925,Utah,282,117,2,4,3,6.28,0,1,none,1,1
+818,North Ollenbuttel,M,714-177-9799,California,285,94,3,2,5,5.62,0,1,basketball,0,0
+819,Fernando Dennerly,M,330-441-7691,Ohio,269,84,2,3,4,5.23,0,0,hockey,0,0
+820,Starlin Chiechio,F,205-336-4548,Alabama,269,104,5,3,5,5.88,0,0,football,0,0
+821,Sonnie Krelle,M,305-857-3587,Florida,268,114,2,2.5,3.5,5.32,1,0,basketball,1,0
+822,Kris Doyle,M,209-266-6442,California,274,108,1,1,4.5,6.32,0,1,football,0,0
+823,Elianora Maseres,F,518-570-6601,New York,267,111,4,5,3,6.48,1,1,football,0,1
+824,Hinda Tremlett,F,415-774-0284,California,293,104,1,5,4,5.96,1,1,none,0,1
+825,Jeremy Lagde,M,478-904-5850,Georgia,278,91,5,1.5,3,6.38,0,1,hockey,0,0
+826,Brnaby Abramof,M,504-946-4067,Louisiana,286,83,2,3,2,6.34,1,0,hockey,0,0
+827,Shanan Splaven,M,419-155-8905,Ohio,284,113,3,4,4,6.21,1,1,none,1,1
+828,Barth Scown,M,217-487-0063,Illinois,291,87,2,3.5,2.5,5.39,0,0,none,0,0
+829,Glennis Stebbin,F,215-441-9815,Pennsylvania,265,111,1,3,4.5,7.52,1,1,basketball,1,1
+830,Ray Canner,F,518-829-8420,New York,269,108,4,4,2.5,6,1,0,football,1,0
+831,Isak Mathwen,M,202-779-7643,District of Columbia,295,92,4,3,5,6.23,0,1,hockey,1,0
+832,Nathalia Flecknoe,F,732-161-6713,New Jersey,289,97,5,1,2.5,5.23,1,0,hockey,0,0
+833,Ardyce Alexandre,F,801-440-6006,Utah,298,111,5,5,3,5.96,1,0,football,1,0
+834,Amy Whitwood,F,225-715-6665,Louisiana,283,97,2,2.5,2,5.98,1,0,football,0,0
+835,Roanne Ferrucci,F,214-602-9698,Texas,295,105,3,3,3.5,5.21,0,0,none,1,0
+836,Travers Deacock,M,714-542-4865,California,263,96,2,3,4.5,6.23,1,1,none,0,0
+837,Ericha Gilburt,F,813-147-5903,Florida,286,108,5,2,2,7.25,1,1,basketball,0,0
+838,Vachel Trevear,M,651-569-7296,Minnesota,281,84,2,3,2,8.23,0,0,hockey,0,0
+839,Flinn Careswell,M,501-976-9282,Arkansas,279,81,1,4.5,1.5,7.02,1,0,hockey,1,0
+840,Shina Neller,F,217-845-4928,Illinois,271,111,4,3,1.5,8.05,0,0,football,0,0
+841,Brooke Michal,M,208-967-4540,Idaho,269,80,1,4,2,4.99,0,0,none,1,0
+842,Ajay Boyall,F,260-629-0580,Indiana,291,113,5,5,2.5,5.69,0,0,none,1,0
+843,Frances Corkitt,F,504-644-4318,Louisiana,262,92,2,3,4,4.89,0,0,basketball,1,0
+844,Laurianne Dunn,F,971-517-9748,Oregon,277,120,3,1.5,1.5,5.69,1,1,basketball,1,0
+845,Pembroke Mallindine,M,910-878-3209,North Carolina,298,81,2,2,4,6.58,0,0,hockey,1,0
+846,Brod Garfirth,M,314-305-2614,Missouri,261,107,5,2.5,2.5,5.36,1,1,basketball,0,1
+847,Gisella Pottery,F,509-847-0362,Washington,285,114,2,3.5,5,7.52,1,0,basketball,1,1
+848,Judd Duckitt,M,540-222-3446,Virginia,273,119,5,5,3.5,5.38,0,1,basketball,0,0
+849,Marjie Koppes,F,510-552-1122,California,264,116,4,2,4.5,5.3,0,1,none,0,0
+850,Rustin Artus,M,315-158-9172,New York,274,93,4,1.5,2.5,6.32,0,1,none,0,0
+851,Wiatt Coldwell,M,316-925-5999,Kansas,297,94,1,1,2.5,6.85,0,0,basketball,0,0
+852,Alexi Owers,F,508-967-1928,Massachusetts,265,119,5,3.5,1,5.99,0,0,none,0,0
+853,Neal Keuntje,M,312-895-3094,Illinois,300,84,2,2.5,3.5,5.14,1,1,basketball,1,0
+854,Annecorinne Riggeard,F,915-648-1783,Texas,273,87,3,4.5,2,5.23,0,0,football,0,1
+855,Farris Breit,M,316-434-6871,Kansas,262,104,2,1,3,6.38,0,1,basketball,1,0
+856,Adolf Sweetmore,M,954-200-9200,Florida,297,110,5,3.5,3,6.49,1,1,none,0,0
+857,Jeffy Hundell,M,210-611-8478,Texas,282,92,5,2.5,1.5,6.99,0,0,football,0,0
+858,Royal Ludvigsen,M,412-496-7259,Pennsylvania,291,118,1,3.5,5,5.81,1,1,hockey,1,1
+859,Wade Simond,M,432-450-6762,Texas,281,100,4,2,2.5,5.63,1,0,basketball,1,0
+860,Bunnie Vashchenko,F,602-195-8972,Arizona,282,111,2,3.5,1.5,5.95,0,1,none,1,0
+861,Caryl Girton,M,310-896-3560,California,266,106,5,2.5,2,5.92,1,0,hockey,0,0
+862,Aile Gadeaux,F,803-996-6383,South Carolina,280,85,3,1,4,6.39,0,1,basketball,1,0
+863,Wallas Sedgman,M,304-767-9113,West Virginia,266,85,2,2,1.5,6.54,0,1,hockey,1,0
+864,Lindsey Strange,M,312-892-9825,Illinois,298,112,1,3,3,6.86,1,1,football,0,1
+865,Leanna Taudevin,F,732-292-0918,New Jersey,267,109,4,2.5,1,5.99,1,0,football,0,0
+866,Westley Rawsen,M,336-116-9031,North Carolina,272,84,5,2.5,4,5.55,0,0,basketball,0,0
+867,Caye Borgnol,F,559-317-4057,California,268,85,2,1.5,1.5,6.94,0,1,none,0,0
+868,Arni Quoit,M,212-620-1154,New York,270,117,3,3.5,4.5,6.63,0,0,none,1,0
+869,Flem Huntley,M,713-250-8319,Texas,271,100,5,3,4.5,6.39,1,1,none,0,1
+870,Luca Geggus,M,805-402-7902,California,267,103,2,1,1,5.81,1,0,none,0,0
+871,Spike Cabbell,M,719-384-9416,Colorado,261,98,1,4,4.5,6.14,1,1,basketball,0,1
+872,Kayne Leinthall,M,813-827-7412,Florida,290,115,4,4.5,1.5,6.27,0,1,hockey,0,0
+873,Emilie Hitscher,F,515-978-2860,Iowa,265,83,5,1,1,6.08,1,1,football,1,0
+874,Malynda Keeling,F,404-842-2056,Georgia,268,111,5,2,2.5,5.72,0,0,football,0,0
+875,Nicol Verlinde,M,904-751-9766,Florida,267,112,2,3.5,2.5,5.87,1,1,hockey,1,1
+876,Birch Doggart,M,414-370-8267,Wisconsin,265,89,3,1,3,6.14,0,1,none,1,0
+877,Denys Treadgall,M,916-524-0334,California,267,105,2,3.5,3.5,5.8,1,0,football,0,1
+878,Norene Feaviour,F,513-172-6633,Ohio,296,120,2,4,3,5.96,0,1,none,0,1
+879,Carmon Bartlam,F,540-757-8050,Virginia,294,98,5,5,4.5,6.28,0,1,hockey,0,1
+880,Ban Duran,M,408-168-1957,California,293,87,5,2.5,1,5.86,0,1,football,0,0
+881,Noble Frostdick,M,410-396-0630,Maryland,261,82,2,2.5,4,5.73,0,0,hockey,0,0
+882,Clementius Brocklehurst,M,214-590-6632,Texas,290,87,3,2,2.5,6.56,0,1,basketball,1,0
+883,Con Lucien,M,901-526-6677,Tennessee,261,100,2,3.5,4.5,6.2,0,0,basketball,1,0
+884,Minnnie Iaduccelli,F,801-370-1536,Utah,265,91,5,1,4,6.07,0,1,football,1,0
+885,Chrissy Vankov,F,281-797-6747,Texas,270,89,2,2,3,5.92,1,0,hockey,0,0
+886,Allie Coldbath,F,714-214-3298,California,272,94,5,4,2,5.49,1,1,football,1,0
+887,Micah Matuszak,M,202-576-6329,District of Columbia,276,105,2,2,5,5.76,1,1,none,1,0
+888,Alena Ring,F,507-145-3270,Minnesota,262,84,1,1.5,2,6.81,0,1,none,1,0
+889,Tawsha MacNeilley,F,901-372-7723,Tennessee,263,118,4,3,4,6.3,1,0,hockey,0,1
+890,Michaella Ainscow,F,321-337-8043,Florida,267,103,1,2.5,3.5,5.66,0,1,basketball,0,0
+891,Diego Flello,M,215-773-8907,Pennsylvania,262,88,1,4.5,2,5.77,1,0,hockey,0,0
+892,Philippa Birdwhistle,F,810-704-5492,Michigan,263,111,4,3.5,1,6.42,0,1,football,0,0
+893,Van Vian,M,812-257-3589,Indiana,292,86,1,4,3.5,6.81,1,0,basketball,1,0
+894,Grannie Powys,M,202-884-9705,District of Columbia,287,81,5,4,2.5,7.17,0,1,football,0,0
+895,Nappy Treadger,M,504-408-5861,Louisiana,266,84,2,2.5,2.5,6.65,1,1,basketball,0,0
+896,Lombard Welldrake,M,916-675-9710,California,268,86,3,2.5,4,5.47,1,1,none,0,0
+897,Leighton Humerstone,M,314-533-8399,Missouri,282,115,2,1.5,2.5,5.22,1,0,hockey,0,0
+898,Darrel Beckley,M,941-798-1119,Florida,285,119,1,5,2.5,6.31,1,1,basketball,0,1
+899,Bunnie Unstead,F,937-573-5866,Ohio,267,112,4,5,4.5,7.18,1,0,hockey,0,1
+900,Bertina Morriarty,F,360-705-0236,Washington,284,117,5,2,4,6.58,1,1,hockey,0,1
+901,Willabella Billett,F,205-140-2801,Alabama,285,110,1,2.5,5,6.64,0,1,none,1,0
+902,Amos Gidley,M,915-844-6222,Texas,298,101,2,4,1,5.66,0,1,basketball,0,0
+903,Terencio Guppy,M,813-237-1684,Florida,291,81,3,4,4,5.93,1,0,basketball,1,0
+904,Ado Banting,M,540-447-0313,Virginia,262,103,2,3,1,6.25,0,0,hockey,0,0
+905,Gwynne Morrow,F,202-409-0520,District of Columbia,300,110,1,2,3,5.34,0,0,none,0,0
+906,Wendye Gitthouse,F,817-626-0907,Texas,266,90,4,5,4,6.66,1,0,none,0,0
+907,Ryon Seckom,M,972-578-6126,Texas,278,104,1,5,5,6.73,1,0,none,0,1
+908,Gianna Havard,F,571-408-6569,Virginia,273,82,4,2,1.5,6.55,0,1,none,1,0
+909,Otes McTerry,M,479-321-5475,Arkansas,293,84,5,3.5,3,5.32,0,0,basketball,1,0
+910,Lorry Grindall,F,702-483-7994,Nevada,278,80,5,3.5,4,7.11,0,0,none,0,0
+911,Ferdy Bandy,M,225-748-8423,Louisiana,287,81,2,4,4,5.5,1,1,basketball,0,0
+912,Moise Hulles,M,813-379-6560,Florida,264,119,1,3.5,3,5.08,1,1,none,0,0
+913,Kingsley Bohl,M,805-751-9926,California,286,84,4,4,3,5.34,0,1,hockey,0,0
+914,Skipton Narup,M,512-500-5420,Texas,264,111,1,1.5,3.5,6.03,0,0,none,0,0
+915,Elset Napleton,F,910-378-9660,North Carolina,296,106,5,1.5,2.5,5.49,0,0,hockey,0,0
+916,Averyl Kempstone,F,212-475-9967,New York,278,85,2,3,4,5.13,1,1,football,1,0
+917,Lloyd Reef,M,305-967-1348,Florida,300,83,3,2.5,2.5,5.74,0,1,none,0,0
+918,Francisco Demoge,M,239-798-8416,Florida,271,103,2,2,4.5,5.57,0,0,none,1,0
+919,Pierson Guiton,M,408-645-3957,California,270,96,1,2.5,3.5,6.07,0,1,basketball,0,1
+920,Lavina Lafford,F,801-943-6327,Utah,279,119,4,3.5,1.5,5.6,1,0,basketball,1,0
+921,Sawyer Kenan,M,702-790-4378,Nevada,282,81,1,2,1,6.64,0,1,football,0,0
+922,Charisse Shankster,F,719-510-5245,Colorado,294,89,5,4,2,5.94,0,1,none,1,0
+923,Rodd Lamputt,M,920-547-5997,Wisconsin,262,82,2,1.5,1.5,6.91,0,1,basketball,1,0
+924,Margie Littefair,F,916-547-2591,California,280,101,3,2,2,6.21,1,0,football,1,0
+925,Haskel Langston,M,408-852-1184,California,330,86,2,1,2,5.91,0,0,none,0,0
+926,Trev Dobble,M,937-622-6970,Ohio,304,96,5,4,5,5.87,1,1,none,0,1
+927,Ravid Tsarovic,M,952-281-1079,Minnesota,302,96,1,5,3,6.79,0,1,none,1,0
+928,Tann McKoy,M,916-981-4173,California,313,98,4,1,3,6.69,0,1,hockey,1,0
+929,Petey Filipponi,M,225-517-5676,Louisiana,318,110,5,1,1,6.24,0,1,basketball,0,0
+930,Anselma Shovel,F,214-767-4908,Texas,301,112,5,2.5,2.5,6.84,1,1,football,0,0
+931,Hewett Joel,M,812-127-4391,Indiana,308,80,2,2,1,5.32,0,0,none,0,0
+932,Andrus Koppelmann,M,302-266-3266,Delaware,295,112,3,3.5,2,5.17,1,0,none,1,0
+933,Cori Wigin,M,937-258-5067,Ohio,306,110,2,2,3.5,6.69,0,0,none,1,0
+934,Cherry McNutt,F,718-929-4796,New York,284,120,5,1,3.5,5.03,0,1,basketball,1,1
+935,Maximilian Dampier,M,773-703-4298,Illinois,317,102,1,2,3,5.13,1,1,basketball,1,0
+936,Benedicta Woodburne,F,203-115-1537,Connecticut,281,119,4,1,3,6.89,0,1,hockey,0,0
+937,Celestia Bigham,F,714-797-7830,California,301,104,1,1.5,4.5,6.53,0,0,hockey,1,0
+938,Ardene Ketchen,F,973-910-8116,New Jersey,314,102,4,4,4,6.2,1,0,football,0,1
+939,Vail Mc Caughen,M,815-617-9359,Illinois,289,104,1,5,4,6.89,1,1,none,0,1
+940,Viva Shackleford,F,863-142-6745,Florida,303,100,2,3,4,5.44,0,1,hockey,0,0
+941,Cilka Fabb,F,337-991-4431,Louisiana,294,114,3,3.5,1.5,6.89,1,1,none,1,0
+942,Shoshanna Georg,F,408-561-6497,California,290,105,2,3,3,7.04,0,1,hockey,1,0
+943,Tye Robottham,M,951-567-0817,California,313,109,5,5,1,5.14,0,0,none,1,0
+944,Vanna Keohane,F,347-632-9748,New York,286,96,2,2.5,5,6.69,0,1,none,0,0
+945,Raimundo Lummasana,M,952-999-1382,Minnesota,294,94,1,1,4,5.52,0,0,basketball,1,0
+946,Jaymie Danilovic,M,205-340-5132,Alabama,295,85,4,3.5,1.5,5.78,0,0,hockey,1,0
+947,Addi Frankum,F,513-473-9975,Ohio,296,106,1,1,3,5.72,0,1,hockey,1,0
+948,Reinhard Spadeck,M,212-233-7874,New York,283,101,5,3,1,6.42,1,1,hockey,0,0
+949,Celle Westell,F,817-648-5376,Texas,302,110,2,4.5,4,7.16,1,1,none,0,0
+950,Irina Krzysztofiak,F,202-269-2583,District of Columbia,285,107,3,1,4,6.63,1,1,basketball,0,0
+951,Jameson Pentland,M,405-983-0593,Oklahoma,291,83,2,1.5,5,5.01,1,0,basketball,1,0
+952,Jeannie Oen,F,973-955-0179,New Jersey,288,107,5,3,2.5,6.7,1,0,basketball,1,0
+953,Say McEneny,M,602-759-0600,Arizona,282,86,2,2,2,6.93,0,1,basketball,0,0
+954,Edgard Brumhead,M,318-276-8422,Louisiana,282,82,1,4.5,3.5,6.84,1,0,football,1,0
+955,Prentice Maben,M,410-936-6144,Maryland,280,81,4,4,4,6.99,1,1,none,1,0
+956,Yorgo Kitman,M,724-434-6485,Pennsylvania,299,108,1,5,2,7.15,1,0,none,1,1
+957,Alphard McNea,M,518-348-5482,New York,316,114,5,1,1,6.79,0,0,basketball,0,0
+958,Denni Yuill,F,253-424-8837,Washington,294,112,2,3,4,5.66,0,0,hockey,0,0
+959,Lock Richardeau,M,559-767-8421,California,289,98,3,1,2.5,6.19,1,1,football,1,0
+960,Lacey Mettricke,F,786-267-9982,Florida,300,84,2,5,4.5,7.18,1,1,hockey,0,1
+961,Karen Terzi,F,916-570-0430,California,307,101,3,3,4.5,6.86,0,0,basketball,1,0
+962,Carmelina Anderton,F,619-363-2589,California,287,112,5,2,1.5,7.01,1,1,basketball,0,0
+963,Kit Goodenough,F,520-974-7432,Arizona,292,114,1,2,1,5.03,1,1,basketball,0,0
+964,Xena Di Biasi,F,830-908-0697,Texas,320,83,4,5,1.5,5.72,1,1,football,0,0
+965,Sanders Murty,M,918-617-3736,Oklahoma,288,86,1,3.5,5,6.09,1,1,football,1,0
+966,Junia Dunning,F,609-135-2789,New Jersey,311,108,5,1,4.5,5.06,1,1,hockey,1,0
+967,Hi Kingaby,M,410-346-8299,Maryland,312,105,2,3.5,4,5.79,0,0,football,1,0
+968,Cammi Proback,F,713-994-9024,Texas,294,110,3,5,3,5.22,1,0,none,0,0
+969,Yuma Hardie,M,410-333-5889,Maryland,310,110,2,2,4.5,6.92,1,0,hockey,1,0
+970,Breanne Mayze,F,434-838-3492,North Carolina,306,84,5,4,2.5,6.8,0,1,football,1,0
+971,Luciano Sudddard,M,336-236-8850,North Carolina,285,120,4,4,4,6.14,1,1,hockey,1,1
+972,Larry Curnucke,M,717-598-5871,Pennsylvania,285,100,1,4.5,4,6.46,1,0,basketball,1,1
+973,Chadwick Hinchon,M,281-903-0180,Texas,285,110,4,4.5,3.5,5.68,0,1,football,1,0
+974,Elysha Drexel,F,347-757-0282,New York,284,89,1,1.5,3,6.46,1,1,none,0,0
+975,Sean Bissell,M,240-843-5074,Maryland,318,115,5,4.5,1,5.47,0,0,football,1,0
+976,Truda Plante,F,309-514-0821,Illinois,311,101,2,1,1.5,6.58,1,1,football,1,0
+977,Morrie Marc,M,504-883-1863,Louisiana,283,120,3,3.5,5,5.25,0,0,football,1,0
+978,Joellen Votier,F,202-564-0068,District of Columbia,319,108,2,3.5,4.5,6.66,1,1,none,1,1
+979,Cinda Camolli,F,202-308-2245,District of Columbia,289,92,2,4,4.5,6.93,0,0,none,0,0
+980,Ivor Barbour,M,571-362-2828,Virginia,298,82,5,2,4.5,5.68,1,1,none,1,0
+981,Rabi Dreossi,M,614-337-8727,Ohio,320,115,5,1,1.5,6.81,1,1,football,0,0
+982,Patricio Tease,M,601-640-4202,Mississippi,312,83,5,4.5,4,6.43,1,0,hockey,0,1
+983,Anatole Ungerer,M,216-133-6236,Ohio,288,103,2,2,3,5.52,1,1,basketball,0,0
+984,Darby O'Criane,M,609-486-0963,New Jersey,314,109,1,1,4,6.37,0,1,football,0,0
+985,Meridel Lowdham,F,214-250-3110,Texas,293,80,4,2.5,4.5,6.37,0,1,hockey,1,0
+986,Neely Girardini,F,859-101-5267,Kentucky,284,89,1,2,2.5,5.66,1,1,hockey,1,0
+987,Franni Vankov,F,812-366-2437,Indiana,293,118,2,3.5,4,5.17,0,1,basketball,1,0
+988,Dagmar Taveriner,F,415-219-0800,California,299,89,5,2.5,2.5,6.71,1,0,hockey,0,0
+989,Marshal Wickwar,M,202-585-4213,District of Columbia,310,115,2,4,3.5,5.57,1,0,none,1,1
+990,Martie Addinall,F,602-954-6720,Arizona,294,111,3,1.5,4,5.07,1,0,football,0,0
+991,Lanny Rookwell,M,602-808-0944,Arizona,287,114,3,3.5,4,5.37,1,1,hockey,0,0
+992,Barbey Mufford,F,339-505-2826,Massachusetts,314,85,3,1.5,1,7.16,1,1,none,1,0
+993,Coraline Winterbotham,F,212-829-2584,New York,284,114,2,2,1.5,5.82,1,1,none,0,0
+994,Kennett Krale,M,202-717-9850,District of Columbia,311,97,2,3.5,5,5.2,1,0,football,0,1
+995,Adella Oiseau,F,214-332-7857,Texas,305,117,1,2.5,5,6.38,1,0,none,1,1
+996,Rem Chatenet,M,727-312-8797,Florida,306,120,4,3,2,6.7,0,0,basketball,1,0
+997,Burch Dorbin,M,540-625-4773,Virginia,307,80,1,2.5,4.5,5.58,0,1,hockey,0,0
+998,Maye Glenwright,F,501-785-8979,Arkansas,300,103,5,2,3.5,5.5,1,1,football,1,0
+999,Riva Lydster,F,202-911-8416,District of Columbia,318,120,2,4,1,7.14,0,1,hockey,1,1
+1000,Dewey Geaney,M,732-951-3261,New Jersey,310,98,1,3,4.5,5.78,1,1,basketball,0,1

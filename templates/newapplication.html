@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <link rel="apple-touch-icon" sizes="76x76" href="{{ url_for('static', filename='img/apple-icon.png') }}">
+    <link rel="icon" type="image/png" href="{{ url_for('static', filename='img/favicon.ico') }}">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <title>Application Predictor</title>
+    <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, shrink-to-fit=no'
+        name='viewport' />
+    <!--     Fonts and icons     -->
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700,200" rel="stylesheet" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" />
+    <!-- CSS Files -->
+    <link href="{{ url_for('static', filename='css/bootstrap.min.css') }}" rel="stylesheet" />
+    <link href="{{ url_for('static', filename='css/light-bootstrap-dashboard.css') }}" rel="stylesheet" />
+    <!-- CSS Just for demo purpose, don't include it in your project -->
+    <link href="{{ url_for('static', filename='css/demo.css') }}" rel="stylesheet" />
+</head>
+
+<body>
+    <div class="wrapper">
+        <div class="sidebar" data-image="../static/img/sidebar-5.jpg">
+            <!--
+        Tip 1: You can change the color of the sidebar using: data-color="purple | blue | green | orange | red"
+
+        Tip 2: you can also add an image using data-image tag
+    -->
+            <div class="sidebar-wrapper">
+                <div class="logo">
+                    <a href="javascript:;" class="simple-text">
+                        ABRACADATA
+                    </a>
+                </div>
+                <ul class="nav">
+                    <li>
+                        <a class="nav-link" href="http://localhost:5000/">
+                            <i class="nc-icon nc-chart-pie-35"></i>
+                            <p>DASHBOARD</p>
+                        </a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link" href="http://localhost:5000/newapplication">
+                            <i class="nc-icon nc-circle-09"></i>
+                            <p>NEW APPLICATION</p>
+                        </a>
+                    </li>
+
+
+                </ul>
+            </div>
+        </div>
+        <div class="main-panel">
+            <!-- Navbar -->
+            <nav class="navbar navbar-expand-lg " color-on-scroll="500">
+                <div class="container-fluid">
+                    <a class="navbar-brand" href="#pablo">Application Predictor</a>
+
+                    <div class="collapse navbar-collapse justify-content-end" id="navigation">
+
+                        <ul class="navbar-nav ml-auto">
+                            <li class="nav-item">
+                                <a class="nav-link" href="#pablo">
+                                    <span class="no-icon">Account</span>
+                                </a>
+                            </li>
+
+                            <li class="nav-item">
+                                <a class="nav-link" href="#pablo">
+                                    <span class="no-icon">Log out</span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+
+            <div class="content">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-md-10">
+                            <div class="card">
+                                <div class="card-header">
+                                    <h4 class="card-title">New Application</h4>
+                                </div>
+                                <div class="card-body">
+                                    <form action="{{ url_for('newapplicationPost') }}" method="post">
+                                        <div class="row">
+                                            <div class="col-md-5 pr-1">
+                                                <div class="form-group">
+                                                    <label>Full Name</label>
+                                                    <input type="text" class="form-control"
+                                                        placeholder="Enter First Name" required>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-5 px-1">
+                                                <div class="form-group">
+                                                    <label for="exampleInputEmail1">Email address</label>
+                                                    <input type="email" class="form-control" placeholder="Email">
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="row">
+                                            <div class="col-md-5 pr-1">
+                                                <div class="form-group">
+                                                    <label>GRE Score</label>
+                                                    <input type="text" name="gre_score" class="form-control"
+                                                        placeholder="Enter score between 260 and 340" required>
+                                                </div>
+                                            </div>
+                                      
+                                            <div class="col-md-5 px-1">
+                                                <div class="form-group">
+                                                    <label>TOEFL Score</label>
+                                                    <input type="text" name="toefl_score" class="form-control"
+                                                        placeholder="Enter score between 0 to 120" required>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="row">
+                                            <div class="col-md-5 pr-1">
+                                                <div class="form-group">
+                                                    <label>Bachelor's Degree CGPA</label>
+                                                    <input type="text" name="gpa" class="form-control"
+                                                        placeholder="Enter CGPA" required>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-5 px-1">
+                                                <div class="form-group">
+                                                    <label>Letter of Recommendation Score</label>
+                                                    <input type="text" class="form-control" name="lor_score"
+                                                        placeholder="Enter LOR Score" required>
+
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                      
+                                        <div class="row">
+
+                                            <div class="col-md-10 pr-1">
+                                                <div class="form-group">
+                                                    <label>Statement Of Purpose (Essay) Score</label>
+                                                    <textarea style="height: 150px"cols="150" class="form-control" name="sop_score"
+                                                        placeholder="Enter Statement OF Purpose" required></textarea>
+                                                </div>
+                                            </div>
+                                            
+                                           
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-md-3 pr-1">
+                                                <div class="form-group" data-toggle="tooltip" data-placement="bottom"
+                                                title="Have you done research in your relevant field">
+                                                    <div>
+                                                        <label style="padding-right:15px">Research</label>
+
+                                                        <label class="radio-inline" style="padding-right:15px">
+                                                            <input type="radio" name="research" checked> Yes
+                                                        </label>
+                                                        <label class="radio-inline">
+                                                            <input type="radio" name="research"> No
+                                                        </label>
+
+                                                    </div>
+
+                                                </div>
+                                            </div>
+
+                                            <div class="col-md-3 px-1">
+                                                <div class="form-group" data-toggle="tooltip" data-placement="bottom"
+                                                title="Do you have Financial Aid">
+                                                    <div>
+                                                        <label style="padding-right:15px">Financial Aid</label>
+
+                                                        <label class="radio-inline" style="padding-right:15px">
+                                                            <input type="radio" name="fin_aid" checked> Yes
+                                                        </label>
+                                                        <label class="radio-inline">
+                                                            <input type="radio" name="fin_aid"> No
+                                                        </label>
+
+                                                    </div>
+
+                                                </div>
+                                            </div>
+                                            <div class="col-md-4 px-1">
+                                                <div class="form-group" data-toggle="tooltip" data-placement="bottom"
+                                                    title="No family studied in this university before">
+                                                    <div>
+                                                        <label style="padding-right:15px">First Generation
+                                                            Applicant</label>
+
+                                                        <label class="radio-inline" style="padding-right:15px">
+                                                            <input type="radio" name="first_gen" checked> Yes
+                                                        </label>
+                                                        <label class="radio-inline">
+                                                            <input type="radio" name="first_gen"> No
+                                                        </label>
+
+                                                    </div>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+
+                                            <button type="submit" class="btn btn-info btn-fill" style="margin-left: 17px">Create
+                                                Profile</button>
+                                            <div class="clearfix"></div>
+                                        </div>
+
+                                        <div class="row"  style="margin-top: 17px">
+                                            {% if predicted_value is not defined %}
+                                            {%elif predicted_value[0] == 1%}
+                                            <div class="col-md-6 px-1 alert alert-success" style="margin-left:17px">
+                                                <button type="button" aria-hidden="true" class="close"
+                                                    data-dismiss="alert">
+                                                    <i class="nc-icon nc-simple-remove"></i>
+                                                </button>
+                                                <span>
+                                                 PREDICTED VALUE:  <b>  Selected </b> and the calculated SOP score is <b> {{sopScore}}  </b>                                                     
+                                                </span>                                              
+                                            </div>
+                                            {% elif predicted_value[0] == 0%}
+                                            <div class="col-md-6 px-1 alert alert-success" style="margin-left:17px">
+                                                <button type="button" aria-hidden="true" class="close"
+                                                    data-dismiss="alert">
+                                                    <i class="nc-icon nc-simple-remove"></i>
+                                                </button>
+                                                <span>
+                                                    PREDICTED VALUE:   <b>  Not Selected </b> and the calculated SOP score is <b> {{sopScore}}  </b>                                                        
+                                                </span>                                              
+                                            </div>                                         
+                                            
+                                            {%else %}
+                                            {% endif %}
+                                        </div>
+
+                                    </form>
+                                </div>
+                            </div>
+
+
+                        </div>
+
+
+                    </div>
+
+                </div>
+                <!-- End Navbar -->
+
+                <footer class="footer" style="margin-top: 90px">
+                    <div class="container-fluid">
+                        <nav>
+
+                            <p class="copyright text-center">
+                                ©
+                                <script>
+                                    document.write(new Date().getFullYear())
+                                </script>
+                                <a href="https://www.ellucian.com/">Ellucian</a> - Manikanta, Deeksha, Savitha
+                            </p>
+                        </nav>
+                    </div>
+                </footer>
+            </div>
+        </div>
+
+</body>
+
+
+</script>
+
+<!--   Core JS Files   -->
+<script src="{{ url_for('static', filename='js/core/jquery.3.2.1.min.js') }}" type="text/javascript"></script>
+<script src="{{ url_for('static', filename='js/core/popper.min.js') }}" type="text/javascript"></script>
+<script src="{{ url_for('static', filename='js/core/bootstrap.min.js') }}" type="text/javascript"></script>
+<script src="{{ url_for('static', filename='js/plugins/bootstrap-switch.js') }}"></script>
+<!--  Chartist Plugin  -->
+<script src="{{ url_for('static', filename='js/plugins/chartist.min.js') }}"></script>
+<!--  Notifications Plugin    -->
+<script src="{{ url_for('static', filename='js/plugins/bootstrap-notify.js') }}"></script>
+<!-- Control Center for Light Bootstrap Dashboard: scripts for the example pages etc -->
+<script src="{{ url_for('static', filename='js/light-bootstrap-dashboard.js') }}" type="text/javascript"></script>
+<!-- Light Bootstrap Dashboard DEMO methods, don't include it in your project! -->
+<script src="{{ url_for('static', filename='js/demo.js') }}"></script>
+
+</html>
