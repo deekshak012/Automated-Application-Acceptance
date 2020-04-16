@@ -40,11 +40,15 @@ app = Flask(__name__)
 app.jinja_env.add_extension('jinja2.ext.loopcontrols')
 app.config.from_object(__name__)
 Bootstrap(app)
-
+import pickle
 
 @app.route('/')
-
 def index():
+    df = pd.read_csv('data/dataframe.csv')
+    return render_template('template.html', prediction = df) 
+
+@app.route('/train')
+def train():
     df = pd.read_csv('data/grad.csv')
     X = df.drop(['state','admitted_or_not','interest_in_sports','sr_no','full_name','gender','phone_numbers',],axis=1)
     Y= df['admitted_or_not']
@@ -73,9 +77,10 @@ def index():
     accuracy = np.array([dectree_accuracy, random_accuracy, add_accuracy, svm_accuracy])
     max_acc = np.argmax(accuracy)
     if(classifiers[max_acc] == 'AdaBoost'):
-        y_pred = model_adaboost.predict(X_test)
+        model = model_adaboost
     elif(classifiers[max_acc] == 'Random Forest'):
-        y_pred =  model_randomForest.predict(X_test)
+        model =  model_randomForest
+    y_pred = model.predict(X_test)
     y_train_pred_final = pd.DataFrame({'admitted_or_not':y_pred, 'admitted_or_not1':y_test})
     y_train_pred_final1 = y_train_pred_final
     y_train_pred_final1['name'] = df.full_name
@@ -87,40 +92,23 @@ def index():
     y_train_pred_final1['research_years'] = df.research_years
     y_train_pred_final1['fin_aid'] = df.plan_fa
     y_train_pred_final1['first_gen'] = df.not_a_first_gen_applicant
-    return render_template('template.html',prediction = y_train_pred_final1)
+    y_train_pred_final1.to_csv('data/dataframe.csv')
+    #Confusion Matrix
+    save_confusion_matrix(y_test,model,X_test)
 
-@app.route('/toeflplot')
-def toeflplot():
-    bytes_obj = do_plot_for_toefl()
-    
-    return send_file(bytes_obj,
-                     attachment_filename='plot_for_toefl.png',
-                     mimetype='image/png')
+    #TOEFL scores plot
+    save_plot_for_toefl()
 
-def do_plot_for_toefl():
-    df=pd.read_csv("data/grad.csv")
-    plt.figure(figsize=(8,8))
-    plt.subplot(1,1,1)
-    plt.title('TOEFL Total Score')
-    sns.boxplot(df.toefl_score)  
-    bytes_image = io.BytesIO()
-    plt.savefig(bytes_image, format='png')
-    bytes_image.seek(0)
-    return bytes_image
+    #GRE scores plot
+    save_plot_for_gre()
 
-@app.route('/conmatrix')
-def conmatrix():
-    df = pd.read_csv('data/grad.csv')
-    X = df.drop(['state','admitted_or_not','interest_in_sports','sr_no','full_name','gender','phone_numbers',],axis=1)
-    Y= df['admitted_or_not']
-    X.shape[0]
-    Y.shape[0]
-    X.info()
-    X_train, X_test, y_train, y_test = train_test_split(X, Y,random_state = 45, test_size = 0.25)
-    classify_RandomForest = RandomForestClassifier(criterion = 'entropy')
-    model_randomForest = classify_RandomForest.fit(X_train, y_train)
-    y_pred_randomforest = model_randomForest.predict(X_test)
-    cm = confusion_matrix(y_test,y_pred_randomforest)
+    filename = 'finalized_model/finalized_model.sav'
+    pickle.dump(model, open(filename, 'wb'))
+    return "Trained Model Saved"
+
+
+def save_confusion_matrix(y_test, model, X_test):
+    cm = confusion_matrix(y_test,model.predict(X_test))
     plt.clf()
     cmap = plt.get_cmap('Blues')
     plt.imshow(cm, interpolation='nearest', cmap=cmap)
@@ -135,32 +123,39 @@ def conmatrix():
     for i in range(2):
         for j in range(2):
             plt.text(j,i, str(s[i][j])+"  "+str(cm[i][j]))
-    bytes_image = io.BytesIO()
-    plt.savefig(bytes_image, format='png')
-    bytes_image.seek(0)
-    return send_file(bytes_image,
-                     attachment_filename='plot_for_con.png',
+    plt.savefig("plots/plot_for_con.png")
+
+@app.route('/toeflplot')
+def toeflplot():
+    return send_file('plots/plot_for_toefl.png',
+                     mimetype='image/png')
+
+def save_plot_for_toefl():
+    df=pd.read_csv("data/grad.csv")
+    plt.figure(figsize=(8,8))
+    plt.subplot(1,1,1)
+    plt.title('TOEFL Total Score')
+    sns.boxplot(df.toefl_score)  
+    plt.savefig("plots/plot_for_toefl.png")
+
+@app.route('/conmatrix')
+def conmatrix():    
+    return send_file('plots/plot_for_con.png',
                      mimetype='image/png')
 
 
 @app.route('/greplot')
 def greplot():
-    bytes_obj = do_plot_for_gre()
-    
-    return send_file(bytes_obj,
-                     attachment_filename='plot_for_gre.png',
+    return send_file('plots/plot_for_gre.png',
                      mimetype='image/png')
 
-def do_plot_for_gre():
+def save_plot_for_gre():
     df=pd.read_csv("data/grad.csv")
     plt.figure(figsize=(8,8))
     plt.subplot(1,1,1)
     plt.title('GRE Plot')
     sns.distplot(df.gre_score)
-    bytes_image = io.BytesIO()
-    plt.savefig(bytes_image, format='png')
-    bytes_image.seek(0)
-    return bytes_image
+    plt.savefig("plots/plot_for_gre.png")
 
 @app.route('/newapplication')
 def newapplication():
@@ -177,17 +172,8 @@ def newapplicationPost():
     first_gen = request.form['first_gen']
     sop = request.form['sop_score']
     sop_score= calculate_sop_score(sop)
-    lor_score = request.form['lor_score']
+    lor_score = request.form['lor_score']   
     
-    df = pd.read_csv('data/grad.csv')
-    X = df.drop(['state','admitted_or_not','interest_in_sports','sr_no','full_name','gender','phone_numbers',],axis=1)
-    Y= df['admitted_or_not']
-    X.shape[0]
-    Y.shape[0]
-    X.info()
-    X_train, X_test, y_train, y_test = train_test_split(X, Y,random_state = 45, test_size = 0.25)
-    classify_Addboost = AdaBoostClassifier(n_estimators=50,learning_rate=1)
-    classify_Addboost.fit(X_train, y_train)
     if fin_aid == 'on':
         fin_aid=1
         
@@ -207,8 +193,10 @@ def newapplicationPost():
         first_gen=1
 
     array = [[gre_score,toefl_score,5,sop_score,lor_score,high_school_gpa,first_gen,research,fin_aid]]
-    y_pred_Addboost = classify_Addboost.predict(array)
-    return render_template('newapplication.html',predicted_value= y_pred_Addboost,sopScore=sop_score)
+    filename = 'finalized_model/finalized_model.sav'
+    loaded_model = pickle.load(open(filename, 'rb'))
+    pred = loaded_model.predict(array)
+    return render_template('newapplication.html',predicted_value= pred,sopScore=sop_score)
 
 def calculate_sop_score(sop):
     text=sop.lower()    
